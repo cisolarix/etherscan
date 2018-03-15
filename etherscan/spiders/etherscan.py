@@ -9,7 +9,6 @@ from selenium import webdriver
 
 class Etherscan(Spider):
     name = 'etherscan'
-    # base_url = 'https://www.guazi.com'
     driver = None
     page = 1
 
@@ -17,7 +16,6 @@ class Etherscan(Spider):
         super().__init__(name, **kwargs)
 
         chrome_options = webdriver.ChromeOptions()
-        # chrome_options.add_argument('--proxy-server=socks5://172.29.108.123:1080')
         self.driver = webdriver.Chrome(chrome_options=chrome_options)
 
     def start_requests(self):
@@ -95,72 +93,19 @@ class Etherscan(Spider):
             yield request
 
     def parse(self, response):
-
         item = EtherscanItem()
+
         token_name = response.xpath('//*[@id="address"]/text()').extract()[0]
         token_holders = re.search('(\d+)', response.xpath('//*[@id="ContentPlaceHolder1_divSummary"]/div[1]/table/tbody/tr[3]/td[2]').extract()[0]).group()
         no_of_transfers = re.search('(\d+)', response.xpath('//*[@id="totaltxns"]').extract()[0]).group()
         erc20_contract = response.xpath('//*[@id="ContentPlaceHolder1_trContract"]/td[2]/a/text()').extract()[0]
-        print('------------- token_holders start -------------')
-        print(type(token_name))
-        print(repr(token_name))
-        print('------------- token_holders end -------------')
+
         item['token_name'] = token_name
         item['token_holders'] = token_holders
         item['no_of_transfers'] = no_of_transfers
         item['erc20_contract'] = erc20_contract
+
         yield item
-
-        # with open('response.html', 'rw') as result:
-        #     result.write(response)
-        # self.logger.info('返回结果成功开始解释。。。')
-        #
-        # car_list = response.css('.carlist').xpath('.//li')
-        # pattern = '[0-9\.]+'
-        #
-        # self.logger.info('汽车列表大小' + str(len(car_list)) + ',遍历汽车列表。。。')
-        # for car in car_list:
-        #     name = car.css('.t::text').extract()[0]
-        #     img_src = car.xpath('.//img/@src').extract()[0]
-        #     info = car.css('.t-i::text').extract()
-        #     year = re.match(pattern=pattern, string=info[0]).group()
-        #     mileage = re.match(pattern=pattern, string=info[1]).group()
-        #     loc = info[2]
-        #     discount_price = car.css('.t-price').xpath('./p/text()').extract()[0]
-        #     tmp = car.css('.line-through::text').extract()
-        #     if len(tmp) != 0:
-        #         origin_price = re.match(pattern=pattern, string=tmp[0]).group()
-        #     else:
-        #         origin_price = '0.0'
-        #     car_item = GuaziItem()
-        #     car_item['name'] = name
-        #     car_item['img_url'] = img_src
-        #     car_item['year'] = int(year)
-        #     car_item['mileage'] = float(mileage)
-        #     car_item['loc'] = loc
-        #     car_item['discount_price'] = float(discount_price)
-        #     car_item['origin_price'] = float(origin_price)
-        #
-        #     yield self.make_car_item(car_item=car_item)
-        #
-        # page_link = response.css('.pageLink').xpath(".//li[@class='link-on']/following-sibling::*")
-        # next_link = page_link.xpath(".//a/@href").extract()[0]
-        # self.logger.info('找到下一页，url为' + next_link + ' 开始请求下一页。。。')
-        #
-        # if next_link is not None:
-        #     page_no = re.search('o[0-9]+', next_link).group()[1:]
-        #     if int(page_no) < self.page:
-        #         with open('error.html', 'rw') as file:
-        #             file.write(response)
-        #         self.logger.info('页面序号错误，程序终止。。。')
-        #         exit(0)
-        #
-        #     request = Request(url=self.base_url + next_link, callback=self.parse)
-        #     self.page += 1
-        #     yield request
-
-    def make_car_item(self, car_item):
-        return car_item
 
     @staticmethod
     def close(spider, reason):
