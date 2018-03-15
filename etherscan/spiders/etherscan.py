@@ -1,0 +1,168 @@
+from scrapy import Spider
+from scrapy import Request
+import re
+from ..items import EtherscanItem
+from datetime import datetime
+import time
+from selenium import webdriver
+
+
+class Etherscan(Spider):
+    name = 'etherscan'
+    # base_url = 'https://www.guazi.com'
+    driver = None
+    page = 1
+
+    def __init__(self, name=None, **kwargs):
+        super().__init__(name, **kwargs)
+
+        chrome_options = webdriver.ChromeOptions()
+        # chrome_options.add_argument('--proxy-server=socks5://172.29.108.123:1080')
+        self.driver = webdriver.Chrome(chrome_options=chrome_options)
+
+    def start_requests(self):
+        urls = [
+            "https://etherscan.io/token/EOS",
+            "https://etherscan.io/token/Tronix",
+            "https://etherscan.io/token/OmiseGO",
+            "https://etherscan.io/token/Qtum",
+            "https://etherscan.io/token/ICON",
+            "https://etherscan.io/token/BNB",
+            "https://etherscan.io/token/DGD",
+            "https://etherscan.io/token/Populous",
+            "https://etherscan.io/token/Maker",
+            "https://etherscan.io/token/StatusNetwork",
+            "https://etherscan.io/token/REP",
+            "https://etherscan.io/token/ZRX",
+            "https://etherscan.io/token/BAT",
+            "https://etherscan.io/token/QASH",
+            "https://etherscan.io/token/Golem",
+            "https://etherscan.io/token/Ethos",
+            "https://etherscan.io/token/FunFair",
+            "https://etherscan.io/token/Salt",
+            "https://etherscan.io/token/KyberNetwork",
+            "https://etherscan.io/token/Bancor",
+            "https://etherscan.io/token/Request",
+            "https://etherscan.io/token/TenXPay",
+            "https://etherscan.io/token/ICONOMI",
+            "https://etherscan.io/token/Storj",
+            "https://etherscan.io/token/Civic",
+            "https://etherscan.io/token/Gnosis",
+            "https://etherscan.io/token/Monaco",
+            "https://etherscan.io/token/Quantstamp",
+            "https://etherscan.io/token/Raiden",
+            "https://etherscan.io/token/EnjinCoin",
+            "https://etherscan.io/token/Aragon",
+            "https://etherscan.io/token/Decentraland",
+            "https://etherscan.io/token/RLC",
+            "https://etherscan.io/token/SAN",
+            "https://etherscan.io/token/Metal",
+            "https://etherscan.io/token/Edgeless",
+            "https://etherscan.io/token/RipioCreditNetwork",
+            "https://etherscan.io/token/Amber",
+            "https://etherscan.io/token/AirSwap",
+            "https://etherscan.io/token/WINGS",
+            "https://etherscan.io/token/Melon",
+            "https://etherscan.io/token/TAAS",
+            "https://etherscan.io/token/SNGLS",
+            "https://etherscan.io/token/CoinDash",
+            "https://etherscan.io/token/district0x",
+            "https://etherscan.io/token/Lunyr",
+            "https://etherscan.io/token/BCAP",
+            "https://etherscan.io/token/Humaniq",
+            "https://etherscan.io/token/AdToken",
+            "https://etherscan.io/token/TokenCard",
+            "https://etherscan.io/token/Cofoundit",
+            "https://etherscan.io/token/Numeraire",
+            "https://etherscan.io/token/NimiqNetwork",
+            "https://etherscan.io/token/Trustcoin",
+            "https://etherscan.io/token/Guppy",
+            "https://etherscan.io/token/FirstBlood",
+            "https://etherscan.io/token/TIME",
+            "https://etherscan.io/token/SwarmCity",
+            "https://etherscan.io/token/Xaurum",
+            "https://etherscan.io/token/Pluton",
+            "https://etherscan.io/token/DICE",
+            "https://etherscan.io/token/HelloGold",
+            "https://etherscan.io/token/vSlice",
+            "https://etherscan.io/token/Indorse",
+            "https://etherscan.io/token/FundYourselfNow"
+        ]
+
+        for url in urls:
+            self.logger.info('开始请求。。。')
+            request = Request(url=url, callback=self.parse)
+            yield request
+
+    def parse(self, response):
+
+        item = EtherscanItem()
+        token_name = response.xpath('//*[@id="address"]/text()').extract()[0]
+        token_holders = re.search('(\d+)', response.xpath('//*[@id="ContentPlaceHolder1_divSummary"]/div[1]/table/tbody/tr[3]/td[2]').extract()[0]).group()
+        no_of_transfers = re.search('(\d+)', response.xpath('//*[@id="totaltxns"]').extract()[0]).group()
+        erc20_contract = response.xpath('//*[@id="ContentPlaceHolder1_trContract"]/td[2]/a/text()').extract()[0]
+        print('------------- token_holders start -------------')
+        print(type(token_name))
+        print(repr(token_name))
+        print('------------- token_holders end -------------')
+        item['token_name'] = token_name
+        item['token_holders'] = token_holders
+        item['no_of_transfers'] = no_of_transfers
+        item['erc20_contract'] = erc20_contract
+        yield item
+
+        # with open('response.html', 'rw') as result:
+        #     result.write(response)
+        # self.logger.info('返回结果成功开始解释。。。')
+        #
+        # car_list = response.css('.carlist').xpath('.//li')
+        # pattern = '[0-9\.]+'
+        #
+        # self.logger.info('汽车列表大小' + str(len(car_list)) + ',遍历汽车列表。。。')
+        # for car in car_list:
+        #     name = car.css('.t::text').extract()[0]
+        #     img_src = car.xpath('.//img/@src').extract()[0]
+        #     info = car.css('.t-i::text').extract()
+        #     year = re.match(pattern=pattern, string=info[0]).group()
+        #     mileage = re.match(pattern=pattern, string=info[1]).group()
+        #     loc = info[2]
+        #     discount_price = car.css('.t-price').xpath('./p/text()').extract()[0]
+        #     tmp = car.css('.line-through::text').extract()
+        #     if len(tmp) != 0:
+        #         origin_price = re.match(pattern=pattern, string=tmp[0]).group()
+        #     else:
+        #         origin_price = '0.0'
+        #     car_item = GuaziItem()
+        #     car_item['name'] = name
+        #     car_item['img_url'] = img_src
+        #     car_item['year'] = int(year)
+        #     car_item['mileage'] = float(mileage)
+        #     car_item['loc'] = loc
+        #     car_item['discount_price'] = float(discount_price)
+        #     car_item['origin_price'] = float(origin_price)
+        #
+        #     yield self.make_car_item(car_item=car_item)
+        #
+        # page_link = response.css('.pageLink').xpath(".//li[@class='link-on']/following-sibling::*")
+        # next_link = page_link.xpath(".//a/@href").extract()[0]
+        # self.logger.info('找到下一页，url为' + next_link + ' 开始请求下一页。。。')
+        #
+        # if next_link is not None:
+        #     page_no = re.search('o[0-9]+', next_link).group()[1:]
+        #     if int(page_no) < self.page:
+        #         with open('error.html', 'rw') as file:
+        #             file.write(response)
+        #         self.logger.info('页面序号错误，程序终止。。。')
+        #         exit(0)
+        #
+        #     request = Request(url=self.base_url + next_link, callback=self.parse)
+        #     self.page += 1
+        #     yield request
+
+    def make_car_item(self, car_item):
+        return car_item
+
+    @staticmethod
+    def close(spider, reason):
+        spider.driver.quit()
+        return super().close(spider, reason)
