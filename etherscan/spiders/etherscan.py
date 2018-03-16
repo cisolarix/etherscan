@@ -88,7 +88,7 @@ class Etherscan(Spider):
         ]
 
         for url in urls:
-            self.logger.info('开始请求。。。')
+            self.logger.info('starting .....')
             request = Request(url=url, callback=self.parse)
             yield request
 
@@ -101,9 +101,9 @@ class Etherscan(Spider):
         erc20_contract = response.xpath('//*[@id="ContentPlaceHolder1_trContract"]/td[2]/a/text()').extract()[0]
 
         item['token_name'] = token_name
+        item['erc20_contract'] = erc20_contract
         item['token_holders'] = token_holders
         item['no_of_transfers'] = no_of_transfers
-        item['erc20_contract'] = erc20_contract
 
         yield item
 
