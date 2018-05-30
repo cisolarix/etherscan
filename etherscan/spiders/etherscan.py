@@ -84,7 +84,7 @@ class Etherscan(Spider):
             "https://etherscan.io/token/HelloGold",
             "https://etherscan.io/token/vSlice",
             "https://etherscan.io/token/Indorse",
-            "https://etherscan.io/token/FundYourselfNow"
+            "https://etherscan.io/token/FundYourselfNow",
         ]
 
         for url in urls:
@@ -95,15 +95,11 @@ class Etherscan(Spider):
     def parse(self, response):
         item = EtherscanItem()
 
-        token_name = response.xpath('//*[@id="address"]/text()').extract()[0]
-        token_holders = re.search('(\d+)', response.xpath('//*[@id="ContentPlaceHolder1_divSummary"]/div[1]/table/tbody/tr[3]/td[2]').extract()[0]).group()
-        no_of_transfers = re.search('(\d+)', response.xpath('//*[@id="totaltxns"]').extract()[0]).group()
         erc20_contract = response.xpath('//*[@id="ContentPlaceHolder1_trContract"]/td[2]/a/text()').extract()[0]
+        token_name = response.xpath('//*[@id="address"]/text()').extract()[0]
 
         item['token_name'] = token_name
         item['erc20_contract'] = erc20_contract
-        item['token_holders'] = token_holders
-        item['no_of_transfers'] = no_of_transfers
 
         yield item
 

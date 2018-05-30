@@ -69,7 +69,7 @@ class EtherscanDownloaderMiddleware(object):
         driver = spider.driver
         driver.get(request.url)
 
-        time.sleep(5)
+        time.sleep(1)
 
         return HtmlResponse(url=driver.current_url, body=driver.page_source, encoding='utf-8')
 
