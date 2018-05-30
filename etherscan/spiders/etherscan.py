@@ -4,7 +4,7 @@ import re
 from ..items import EtherscanItem
 from datetime import datetime
 import time
-from selenium import webdriver
+# from selenium import webdriver
 
 
 class Etherscan(Spider):
@@ -12,11 +12,11 @@ class Etherscan(Spider):
     driver = None
     page = 1
 
-    def __init__(self, name=None, **kwargs):
-        super().__init__(name, **kwargs)
+    # def __init__(self, name=None, **kwargs):
+    #     super().__init__(name, **kwargs)
 
-        chrome_options = webdriver.ChromeOptions()
-        self.driver = webdriver.Chrome(chrome_options=chrome_options)
+    #     chrome_options = webdriver.ChromeOptions()
+    #     self.driver = webdriver.Chrome(chrome_options=chrome_options)
 
     def start_requests(self):
         urls = [
@@ -103,7 +103,7 @@ class Etherscan(Spider):
 
         yield item
 
-    @staticmethod
-    def close(spider, reason):
-        spider.driver.quit()
-        return super().close(spider, reason)
+    # @staticmethod
+    # def close(spider, reason):
+    #     spider.driver.quit()
+    #     return super().close(spider, reason)

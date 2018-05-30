@@ -65,13 +65,19 @@ class EtherscanDownloaderMiddleware(object):
         crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)
         return s
 
+    # def process_request(self, request, spider):
+    #     driver = spider.driver
+    #     driver.get(request.url)
+
+    #     time.sleep(1)
+
+    #     return HtmlResponse(url=driver.current_url, body=driver.page_source, encoding='utf-8')
+
     def process_request(self, request, spider):
-        driver = spider.driver
-        driver.get(request.url)
 
         time.sleep(1)
 
-        return HtmlResponse(url=driver.current_url, body=driver.page_source, encoding='utf-8')
+        return None
 
     def process_response(self, request, response, spider):
         # Called with the response returned from the downloader.
