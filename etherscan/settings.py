@@ -89,4 +89,4 @@ DOWNLOADER_MIDDLEWARES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-FEED_EXPORT_FIELDS = ['token_name', 'erc20_contract']
+FEED_EXPORT_FIELDS = ['full_name', 'abbr_name', 'erc20_contract',]

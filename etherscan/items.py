@@ -3,5 +3,6 @@
 import scrapy
 
 class EtherscanItem(scrapy.Item):
-    token_name = scrapy.Field()
+    full_name = scrapy.Field()
+    abbr_name = scrapy.Field()
     erc20_contract = scrapy.Field()
