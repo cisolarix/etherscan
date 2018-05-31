@@ -20,7 +20,7 @@ class Etherscan(Spider):
                 url='https://etherscan.io/tokens?p={0}'.format(inx),
                 meta={'author': 'shooter'},
                 callback=self.parse,
-                # errback=self.error
+                errback=self.error,
             )
 
 
@@ -31,9 +31,9 @@ class Etherscan(Spider):
 
         item = EtherscanItem()
 
-        for body in bodys:
+        for i, body in enumerate(bodys):
             title = body.select('./td[3]/h5/a/text()').extract()[0]
-            token_link = bodys.xpath('./td[3]/h5/a/@href').extract()[0]
+            token_link = bodys.xpath('./td[3]/h5/a/@href').extract()[i]
 
             full_name = title.split("(")[0].strip()   # 全称
             abbr_name = title.split("(")[1][:-1]      # 简称
@@ -45,3 +45,5 @@ class Etherscan(Spider):
 
             yield item
 
+    def error():
+        pass
