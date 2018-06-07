@@ -41,7 +41,7 @@ class Etherscan(Spider):
 
             item['full_name'] = full_name
             item['abbr_name'] = abbr_name
-            item['erc20_contract'] = erc20_contract
+            item['erc20_contract'] = erc20_contract.lower()
 
             yield item
 
