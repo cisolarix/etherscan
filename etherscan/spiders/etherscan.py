@@ -15,7 +15,7 @@ class Etherscan(Spider):
         # page = response.xpath('//*[@id="ContentPlaceHolder1_divpagingpanel"]/div[2]/p/span/b[2]/text()').extract()[0]
         # range(1, int(page)+1 )
 
-        for inx in range(1, 12): # 手动调整分页数量
+        for inx in range(1, 19): # 手动调整分页数量
             yield Request(
                 url='https://etherscan.io/tokens?p={0}'.format(inx),
                 meta={'author': 'shooter'},
