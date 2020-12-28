@@ -1,0 +1,4003 @@
+{
+  "tokens": [{
+    "id": "0xe3ddbe3611aa6084e2dcf262e0388e566f34f70b",
+    "name": "Baby purse",
+    "symbol": "BBP"
+  }, {
+    "id": "0xe3e2c9e131e469c4e9579e3f0df5f6d52ba3a2c2",
+    "name": "Come To Coin",
+    "symbol": "CTCN"
+  }, {
+    "id": "0xe3e53f2e2a552d41a33aee0fb44c5f6160021468",
+    "name": "Remulus Finance",
+    "symbol": "REMU"
+  }, {
+    "id": "0xe3ec0395086da2dbd74c7f637b8fbb1d5d729f40",
+    "name": "DEX",
+    "symbol": "DEX"
+  }, {
+    "id": "0xe3f3869ddd41c23eff3630f58e5bfa584c770d67",
+    "name": "Lock3r",
+    "symbol": "LK3R"
+  }, {
+    "id": "0xe3f449f59d6f5c1e8aaed1e57c718871c6a1ca78",
+    "name": "Elastic Staking",
+    "symbol": "ESTAKE"
+  }, {
+    "id": "0xe3f691ec0ceb8be1796693f1bcf810c7f29c07bc",
+    "name": "YFI-QQQ",
+    "symbol": "YFIQ"
+  }, {
+    "id": "0xe3f8a8c398f376cc556cb0326fe3e15d6a5cc264",
+    "name": "yeti.finance",
+    "symbol": "YETI"
+  }, {
+    "id": "0xe3fb8e637945613303a15810f67e187e89594142",
+    "name": "r34per.com",
+    "symbol": "R34PER"
+  }, {
+    "id": "0xe3ff9dd0f4a504d134152aa791443a88b242b7a3",
+    "name": "BRRR.Fi Official",
+    "symbol": "BRRR"
+  }, {
+    "id": "0xe3fff5f26aff9b5adae2dc13b71cc0f055ed7db3",
+    "name": "Google",
+    "symbol": "GOG"
+  }, {
+    "id": "0xe400013df86249838b720eab5a7f816ad82433c0",
+    "name": "Game Of Bitcoins",
+    "symbol": "GOB"
+  }, {
+    "id": "0xe40319da1345a7400d05f644644de46146f9c93d",
+    "name": "Codezo Network",
+    "symbol": "CZN"
+  }, {
+    "id": "0xe40840f985329ee49ccec1646bd42270fa164dd7",
+    "name": "CertiK",
+    "symbol": "CTK"
+  }, {
+    "id": "0xe40953558d1c170030b0fd8c300a063854889e3c",
+    "name": "TenS Protocol",
+    "symbol": "TENS"
+  }, {
+    "id": "0xe40aa27e7212319e7b14327c14b739fa658b91ba",
+    "name": "YF Beam",
+    "symbol": "YFBM"
+  }, {
+    "id": "0xe40baf4e6c1a98900219f0690730975b37e1be61",
+    "name": "BUG2Xcoin",
+    "symbol": "BG2"
+  }, {
+    "id": "0xe414cc013b527e7e25f5147d5a09f24ed934c029",
+    "name": "betfury.io",
+    "symbol": "BFG"
+  }, {
+    "id": "0xe416b542ceca081f4d6f1738bca000b24f8363f7",
+    "name": "DBTC",
+    "symbol": "DBTC"
+  }, {
+    "id": "0xe41a7afe4f8eba53ba37ed8f2563eaba620b159b",
+    "name": "YNFT FINANCE",
+    "symbol": "YNFT"
+  }, {
+    "id": "0xe41c76492f6a36a22c9e0850834bd255dfc8a5f5",
+    "name": "dexTradeBOT",
+    "symbol": "DBOT"
+  }, {
+    "id": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX"
+  }, {
+    "id": "0xe42578eb49e618163050ca092f98dee8c740fb0d",
+    "name": "YFTezos",
+    "symbol": "YFT"
+  }, {
+    "id": "0xe429504fffb19da062c550610e057e3a08443afb",
+    "name": "Citro Governance Protocol",
+    "symbol": "AGP"
+  }, {
+    "id": "0xe42baff567b0359255e7880262cdd3dd65ae64c5",
+    "name": "H3XCORE",
+    "symbol": "COREx"
+  }, {
+    "id": "0xe43035f9035a98f66a495dd5f806d840ebb8336b",
+    "name": "YOUTRADE AIRDROP",
+    "symbol": "YTV"
+  }, {
+    "id": "0xe431a4c5db8b73c773e06cf2587da1eb53c41373",
+    "name": "Trias Token",
+    "symbol": "TRY"
+  }, {
+    "id": "0xe431ad9bc683cac2eb9ce0a104812f6bbb2e1638",
+    "name": "TwoCoin",
+    "symbol": "TWO"
+  }, {
+    "id": "0xe437e686306a08cb9f1570165d29001783e57cf4",
+    "name": "Vulpix Token",
+    "symbol": "VPX"
+  }, {
+    "id": "0xe4382f177324320a537a14a870b3c16e6160ed61",
+    "name": "Uniwasp.Finance",
+    "symbol": "WASP"
+  }, {
+    "id": "0xe43b1a93d0dd22113809c87391e803c18ee26f85",
+    "name": "DuckDao",
+    "symbol": "DUCK"
+  }, {
+    "id": "0xe4417ac15c653f9dcd116f3e27d0253669b5e68d",
+    "name": "idle.finance",
+    "symbol": "IDLE"
+  }, {
+    "id": "0xe441e7a1ec1856f26c25bda08ebbb63d7cceecd1",
+    "name": "unilend.finance",
+    "symbol": "UFT"
+  }, {
+    "id": "0xe445e067cb17b62b15f4883b66b69e05ea7b327d",
+    "name": "Kagra",
+    "symbol": "KGR"
+  }, {
+    "id": "0xe44986067d67ff3738834231c05e8273fc7ce177",
+    "name": "DokiDokiAsuna",
+    "symbol": "ASUNA"
+  }, {
+    "id": "0xe449c8e7a00193010c97d531dabde822d8297291",
+    "name": "SUSHI.ZIPPO.IO",
+    "symbol": "SUSHI"
+  }, {
+    "id": "0xe44e818a09a3b854313ac8dcc3a643f65164f9eb",
+    "name": "t.me/moonflect",
+    "symbol": "MOONFLECT"
+  }, {
+    "id": "0xe451f046dbb070bb297d1bea9eea73e55425feaa",
+    "name": "JustLiquidity",
+    "symbol": "JUL"
+  }, {
+    "id": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+    "name": "Wrapped Celo",
+    "symbol": "wCELO"
+  }, {
+    "id": "0xe459671b05c67fe0a36301df97febdaa0f032d48",
+    "name": "Keep Pro",
+    "symbol": "KPP"
+  }, {
+    "id": "0xe45f73dad6af24273b361f02c3749f13c2231080",
+    "name": "PowerIndex",
+    "symbol": "PIPT"
+  }, {
+    "id": "0xe4601d140ecc8fe7c763b4fcdce250fddf031bb2",
+    "name": "arrano.network",
+    "symbol": "ANDX"
+  }, {
+    "id": "0xe4602c372d382773655d1afe3358a126bcf56d78",
+    "name": "seal.finance",
+    "symbol": "SEAL"
+  }, {
+    "id": "0xe4664dde7595763e3ea7550a44e01b719c5cbbd9",
+    "name": "Itam.Games",
+    "symbol": "ITAM"
+  }, {
+    "id": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+    "name": "EXRP Network",
+    "symbol": "EXRN"
+  }, {
+    "id": "0xe46a971483300104cb1a457e8346355cff1da3b9",
+    "name": "COMPOUNDER",
+    "symbol": "CP3R"
+  }, {
+    "id": "0xe46b8f3ac59e109345604077f2eb97b153a7828a",
+    "name": "LAYCON",
+    "symbol": "LAYCOIN"
+  }, {
+    "id": "0xe4740f80eed35f96313301e7f8680fe74f66b82f",
+    "name": "GOLD Finance",
+    "symbol": ""
+  }, {
+    "id": "0xe474f8794c6b02032589482d9ac3c5edfdda9987",
+    "name": "CeDeFi Token",
+    "symbol": "CDF"
+  }, {
+    "id": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+    "name": "Herocoin",
+    "symbol": "PLAY"
+  }, {
+    "id": "0xe47d5c4f4c2ae421cd4437e9d7fe8583b1b42fed",
+    "name": "AUTEM.network",
+    "symbol": "AUTEM"
+  }, {
+    "id": "0xe47ebaed032ef77562cf99f274e7b68f887aa0e8",
+    "name": "OoshDeFi",
+    "symbol": "Oosh"
+  }, {
+    "id": "0xe47ec979a731e862436f24a37fa6704b70f76bbf",
+    "name": "Snapshots",
+    "symbol": "SHOTS"
+  }, {
+    "id": "0xe481f2311c774564d517d015e678c2736a25ddd3",
+    "name": "DefHold",
+    "symbol": "DEFO"
+  }, {
+    "id": "0xe4823e0b3ce7cfcb70508c40d6bffb8d996bd189",
+    "name": "MINI ETHEREUM",
+    "symbol": "METH"
+  }, {
+    "id": "0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57",
+    "name": "SATOPAY YIELD",
+    "symbol": "SPY"
+  }, {
+    "id": "0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+    "name": "TwoKeyEconomy",
+    "symbol": "2KEY"
+  }, {
+    "id": "0xe48b76db5082d9a6c09feda3b2338bade2b2beb0",
+    "name": "SpaceMineToken",
+    "symbol": "MINE"
+  }, {
+    "id": "0xe48de8786d246df3ea54cd2b8acfa8037ff96871",
+    "name": "Degen Barter Module",
+    "symbol": "DBM"
+  }, {
+    "id": "0xe48e4e9169bf85ff0d56a5f5db8e01399aaab37e",
+    "name": "print3r",
+    "symbol": "print3r"
+  }, {
+    "id": "0xe492fe6bb7ce8e22f215dca68773f38b2a82b711",
+    "name": "Uptown Panda",
+    "symbol": ""
+  }, {
+    "id": "0xe49a9ece1a4a53d6dee5f05224833be57f699414",
+    "name": "Duke.Finance",
+    "symbol": "DUKE"
+  }, {
+    "id": "0xe49b6d3d89b71d75b0bf2c3dd9e97404d2927e09",
+    "name": "Pineapple token",
+    "symbol": "PPTN"
+  }, {
+    "id": "0xe49fbaede0238c2a07e40184a01be89f52d7e2af",
+    "name": "codaprotocol",
+    "symbol": "CDP"
+  }, {
+    "id": "0xe4a196d5ec2c3a5898ca4a2d3e7cd5bae6f2e77d",
+    "name": "Dragon DAO Protocol",
+    "symbol": "DDP"
+  }, {
+    "id": "0xe4a3a6d1d340f1fdf6bff491ee2f1f377fe36366",
+    "name": "bXIOT",
+    "symbol": "bXIOT"
+  }, {
+    "id": "0xe4a571f162850c07025660a551cd77348bd39dba",
+    "name": "DogDefiCoin",
+    "symbol": "DOGDEFIv2"
+  }, {
+    "id": "0xe4ad5b5bc2ff909b3af04e66c9072fd4c73a17cc",
+    "name": "BlackYFI",
+    "symbol": "BYFI"
+  }, {
+    "id": "0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+    "name": "Utopia Open Platform",
+    "symbol": "UOP"
+  }, {
+    "id": "0xe4aeee528083a9146a8bac32aa59a681c420982a",
+    "name": "Txy Yield",
+    "symbol": "TXY"
+  }, {
+    "id": "0xe4b41ee27edc493bd434f574299ebf9d4c20be6b",
+    "name": "GESWAP",
+    "symbol": "GE"
+  }, {
+    "id": "0xe4b533bd99384e9af7008ea9addef84437936ae5",
+    "name": "Wrapped BCH",
+    "symbol": "wBCH"
+  }, {
+    "id": "0xe4b9fd1f952f9d54e62bba8ed602c4be1bda7db9",
+    "name": "Passion Creator",
+    "symbol": "PSC"
+  }, {
+    "id": "0xe4ba6ebeeef23d71a725e1ac2bc01a78f3d8a89d",
+    "name": "BlueSoft.org",
+    "symbol": "BSFT"
+  }, {
+    "id": "0xe4bda43f7e2c6324f9135451a5cfd9e7c05ac5d8",
+    "name": "FairSwap",
+    "symbol": "FAIR"
+  }, {
+    "id": "0xe4be37a88be31795c3c66fe40a3ab50386bf8cb9",
+    "name": "Pluton",
+    "symbol": "PLU"
+  }, {
+    "id": "0xe4bfd1b1114c1f5f26257df9b74bd2e5cbbd6657",
+    "name": "hriadefi.io",
+    "symbol": "HRIA"
+  }, {
+    "id": "0xe4c3c5b449d3df8e13649ad99d906fc6a0312b4c",
+    "name": "DonnerFinance",
+    "symbol": "DONER"
+  }, {
+    "id": "0xe4c60c5314f9f8bca986898811bac4f9ccd59b4f",
+    "name": "TargetCorporationCoin",
+    "symbol": "TCC"
+  }, {
+    "id": "0xe4c6a1fc0fb9869fecf7caefd8b397efb84fa84d",
+    "name": "BETA APE",
+    "symbol": "BTAP"
+  }, {
+    "id": "0xe4d072d3417ddb5243f5bf1a3bc3f2f734dbc679",
+    "name": "foresterx.com",
+    "symbol": "FEX"
+  }, {
+    "id": "0xe4d247b7cebd5e3957ee41a247074457a1e7402d",
+    "name": "COVER Protocol",
+    "symbol": "COVER"
+  }, {
+    "id": "0xe4d5b08ea77661b18eae039a0a8bcc4682f3aee0",
+    "name": "YFPRO FINANCE",
+    "symbol": "YFPRO"
+  }, {
+    "id": "0xe4d786fb99513b94301f2b544f6f83a32fab2056",
+    "name": "Aquila Protocol",
+    "symbol": "AUX"
+  }, {
+    "id": "0xe4d93b1ec50ae4966c573859467a6bdbd06294f0",
+    "name": "Humpback.finance",
+    "symbol": "HUMP"
+  }, {
+    "id": "0xe4ddb92a2a36d14a655b391662343dd7aeff36cf",
+    "name": "Hammer Coin",
+    "symbol": "HC"
+  }, {
+    "id": "0xe4dfec79bfe41dc7ef221caaec6ad481a138aa23",
+    "name": "unn.fund",
+    "symbol": "UNN"
+  }, {
+    "id": "0xe4e010cbf46a0bf9104b05f5081866f5bbf52c31",
+    "name": "Super ARIA",
+    "symbol": "SARIA"
+  }, {
+    "id": "0xe4e2df33a7fbb6fa35ed95a252807a27ea547a4b",
+    "name": "THE CHAD SHOW",
+    "symbol": "TICKET"
+  }, {
+    "id": "0xe4e540904e2d9796b2e3836880d7404673c84199",
+    "name": "Nado Network",
+    "symbol": "NADO"
+  }, {
+    "id": "0xe4e822c0d5b329e8bb637972467d2e313824efa0",
+    "name": "dfinance",
+    "symbol": "XFI"
+  }, {
+    "id": "0xe4e915fd305693492ca0bf1cbbd2bf420f7d7818",
+    "name": "AIN Finance",
+    "symbol": "AINF"
+  }, {
+    "id": "0xe4f6da994a9694ae64de34858f19440b4ff32ac6",
+    "name": "Heritage Fi",
+    "symbol": "HFI"
+  }, {
+    "id": "0xe4f7a608b0eedc93a97d1249c8bbda0e98077d29",
+    "name": "REVO",
+    "symbol": "REV"
+  }, {
+    "id": "0xe4fd8086cb52ab123321ff62a3a2e18050c239f7",
+    "name": "Respect Token",
+    "symbol": "RSPx"
+  }, {
+    "id": "0xe4ffd682380c571a6a07dd8f20b402412e02830e",
+    "name": "Eminence LINK",
+    "symbol": "eLINK"
+  }, {
+    "id": "0xe4ffee3b33360e21ea2aec37a39901cb720eb84c",
+    "name": "MEDIEX",
+    "symbol": "MDX"
+  }, {
+    "id": "0xe501dfc8b6041f5dcf8fe7187e132a3ddb02108f",
+    "name": "EcomToken",
+    "symbol": "ECOM"
+  }, {
+    "id": "0xe5070740eb64976a9f226f535affc9eca5652792",
+    "name": "Vray",
+    "symbol": "V"
+  }, {
+    "id": "0xe509e9d96cb055c64c664976ddb421f82b255447",
+    "name": "ESCAN",
+    "symbol": "ESN"
+  }, {
+    "id": "0xe50b14e558e070b87392f5540eae052fae188b57",
+    "name": "Trust Swap Token",
+    "symbol": "SWAP"
+  }, {
+    "id": "0xe50e3c00ab87bc50a639ee4e486dccbf48b20932",
+    "name": "Renr Network",
+    "symbol": "RENR"
+  }, {
+    "id": "0xe51237de3fc15e05091b49a3e13a75321f417d1a",
+    "name": "Yield Finance Trading",
+    "symbol": "YFIT"
+  }, {
+    "id": "0xe51702674828e3d041610fac07c7c714b905858b",
+    "name": "GoldXCoin",
+    "symbol": "GXC"
+  }, {
+    "id": "0xe51da271c1187b94647cecb855ad9e207292306a",
+    "name": "H3X SWAP",
+    "symbol": "HXP"
+  }, {
+    "id": "0xe51f24b251430a6e615f66e0d3c3a97c442ab38c",
+    "name": "ART Token",
+    "symbol": "ART"
+  }, {
+    "id": "0xe51fdc2c202a95ba9dff434b4297184b62f67d0b",
+    "name": "yfALPHA",
+    "symbol": "YFALP"
+  }, {
+    "id": "0xe52294152805e304803c93b700266ddfe99eab32",
+    "name": "YFEthereum",
+    "symbol": "YFETH"
+  }, {
+    "id": "0xe522d9a7dd0a311b8655b7699bf834cfd4f3ea4c",
+    "name": "CoinDefi.org",
+    "symbol": "COIN"
+  }, {
+    "id": "0xe526268ff4de34651c7d8bbf46f9c4dab2ef472c",
+    "name": "nzCORE.finance",
+    "symbol": "nzCORE"
+  }, {
+    "id": "0xe52cbbafb37828d71bf5f241c8a487a378ee545d",
+    "name": "Yearn World Finance",
+    "symbol": "YFWG"
+  }, {
+    "id": "0xe52d53c8c9aa7255f8c2fa9f7093fea7192d2933",
+    "name": "yield-farming.io",
+    "symbol": "YIELDX"
+  }, {
+    "id": "0xe531bde1149580c43fda0381ab97669aee490733",
+    "name": "DontBuyTwelve",
+    "symbol": "DontBuyTwelve"
+  }, {
+    "id": "0xe532dd44927a24765419f8f5d83351d30a1996dd",
+    "name": "Kmixswap.com",
+    "symbol": "KMIX"
+  }, {
+    "id": "0xe533f4626fa2e6cb4d7bde05921beebfda4479db",
+    "name": "HHWDL.finance",
+    "symbol": "HHWDL"
+  }, {
+    "id": "0xe534f4f727d7f07b31ed6051e893f3da2be4d455",
+    "name": "YF Finance",
+    "symbol": "YFF"
+  }, {
+    "id": "0xe53940db3ce1ccc33375129b6e211b39221035e4",
+    "name": "xEarn Capital",
+    "symbol": "XRN"
+  }, {
+    "id": "0xe53c708b667c47c370b4941224b3ca812bb8d1a5",
+    "name": "ZEE.FINANCE",
+    "symbol": "ZEE"
+  }, {
+    "id": "0xe53df4620439b266c87b5129933bc1a73d458a54",
+    "name": "Harvardcoin",
+    "symbol": "HDC"
+  }, {
+    "id": "0xe541504417670fb76b612b41b4392d967a1956c7",
+    "name": "BSC",
+    "symbol": "BSC"
+  }, {
+    "id": "0xe5434fe28fdc9431a37494de4e34dbc0a8a48722",
+    "name": "Skull Candy",
+    "symbol": "CANDY"
+  }, {
+    "id": "0xe54459f85fde32bbbd1560d7086f4f2fea00df2c",
+    "name": "CryptoGold",
+    "symbol": "CrGo"
+  }, {
+    "id": "0xe54b3458c47e44c37a267e7c633afef88287c294",
+    "name": "ArtFinity",
+    "symbol": "AT"
+  }, {
+    "id": "0xe54ccbc4ff48bbd3c2f5909ae86cf7f93efded2d",
+    "name": "BerrySwap",
+    "symbol": "Berry"
+  }, {
+    "id": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
+    "name": "Spaghetti",
+    "symbol": "PASTA"
+  }, {
+    "id": "0xe551dd0ffa9e354369094f4bf8d77d1c6a1ddfe9",
+    "name": "Polkacover Protocol",
+    "symbol": "POLC"
+  }, {
+    "id": "0xe551f440cf54b86accbf9d29bfb2db5a9054774c",
+    "name": "UtP.Finance",
+    "symbol": "UTP"
+  }, {
+    "id": "0xe552e9a3e490fd00319cf528ff715714517cf030",
+    "name": "Zodiac DFO",
+    "symbol": "ZODI"
+  }, {
+    "id": "0xe5556ab0d831454cefbb986201bf9daa0eec52a1",
+    "name": "AZBI FUNCTION FARM",
+    "symbol": "AZFF"
+  }, {
+    "id": "0xe5580c3a8eea9d06e9ac1154d17d07019f5f0302",
+    "name": "Dcrglobal.Finance",
+    "symbol": "DCR"
+  }, {
+    "id": "0xe55c30d96d2cef36f95c77334205e39adefd6d29",
+    "name": "Audius",
+    "symbol": "AUDIO"
+  }, {
+    "id": "0xe56db8382beb35ce5928513f93194e59a6eeed29",
+    "name": "Jazz Pool",
+    "symbol": "JAZZ"
+  }, {
+    "id": "0xe56ead95c9caa9454263fd8d6dd421662392946a",
+    "name": "PlotX.io",
+    "symbol": "PLOT"
+  }, {
+    "id": "0xe571a78422aba47a0ad76c397ed4b84e51d89850",
+    "name": "Xprestige",
+    "symbol": "XPG"
+  }, {
+    "id": "0xe5735edf3c90c9849d6dcd9cb66f19fd40f1f201",
+    "name": "nuller.fun",
+    "symbol": "NULLER"
+  }, {
+    "id": "0xe5748911482a173bbb8cc5bf333cd9fbd4e68067",
+    "name": "XION",
+    "symbol": "XION"
+  }, {
+    "id": "0xe57f01a1aaf20025a74016bed4cd8d15598f7ccc",
+    "name": "Quixotic",
+    "symbol": "QXTC"
+  }, {
+    "id": "0xe58459c85f01b0e12d9769124baabc1a9348968a",
+    "name": "cookiemonster.finance",
+    "symbol": "MNST"
+  }, {
+    "id": "0xe5868468cb6dd5d6d7056bd93f084816c6ef075f",
+    "name": "PoorFag",
+    "symbol": "FAG"
+  }, {
+    "id": "0xe586aeaa45c28a2500f4f72031e69d071480f19a",
+    "name": "B SYSTEM TOKEN",
+    "symbol": "BST"
+  }, {
+    "id": "0xe58b3e68937632e3e0c3118d39e940f21678ecb2",
+    "name": "penis.finance",
+    "symbol": "PENIS"
+  }, {
+    "id": "0xe58bc353227795e96618f70139ecfad9b9968e2e",
+    "name": "WrapUNC",
+    "symbol": "CNV"
+  }, {
+    "id": "0xe58d2692bc60fa81565baa18a463ae7192726c5a",
+    "name": "presaledex",
+    "symbol": "PSDEX"
+  }, {
+    "id": "0xe58d9b332affb9a77996dff6ddad5dde46352057",
+    "name": "UNI Test Token 2",
+    "symbol": "UNITA"
+  }, {
+    "id": "0xe58e751aba3b9406367b5f3cbc39c2fa9b519789",
+    "name": "EXOLOVER",
+    "symbol": "EXO"
+  }, {
+    "id": "0xe58eb0e623d06e329020813568124e3541a36fcc",
+    "name": "Uniswap V2",
+    "symbol": "UNI-V2"
+  }, {
+    "id": "0xe59064a8185ed1fca1d17999621efedfab4425c9",
+    "name": "PrimeDAO Token",
+    "symbol": "PRIME"
+  }, {
+    "id": "0xe590b6031aade4638d48e5c22f23e7034ab5b511",
+    "name": "Inverse DAO  ",
+    "symbol": "INV"
+  }, {
+    "id": "0xe59103de20cf7bc82999c63f65382c3df3a5eda7",
+    "name": "YFine.Finance",
+    "symbol": "YFF"
+  }, {
+    "id": "0xe595cec1bbc0cd0086bf6fb5b44cc9b50a458eef",
+    "name": "BILLIONS",
+    "symbol": "BLS1"
+  }, {
+    "id": "0xe59899cc78c720dd90e3c4875b9c84f9084e71c6",
+    "name": "High APY Finance",
+    "symbol": "HAPYF"
+  }, {
+    "id": "0xe599acae14e5ff1e3e51abcd311e7d1b5771c04d",
+    "name": "yRC20 Token Standart",
+    "symbol": "yRC20"
+  }, {
+    "id": "0xe59e5f049350be7dcc4cdcc658c1635dd8cd8ee0",
+    "name": "PATEK FINANCE",
+    "symbol": "PATEK"
+  }, {
+    "id": "0xe5a420394e148668cdd7739bf8dcbca63164fc16",
+    "name": "CNDAO.FINANCE",
+    "symbol": "CNDAO"
+  }, {
+    "id": "0xe5a55df7c54fde43a1217449a3f9a0233ef2a393",
+    "name": "MoonBeamCore",
+    "symbol": "MBCORE"
+  }, {
+    "id": "0xe5a6739b21fe84847dade7152ae6c68895dfdb38",
+    "name": "Rebalance Token",
+    "symbol": "RBAL"
+  }, {
+    "id": "0xe5a723347fc200688879b8c866925dcf00bc0c8c",
+    "name": "Y3dProtocol",
+    "symbol": "Y3d"
+  }, {
+    "id": "0xe5a8c650bf126b9b2141dc688eb678560c36ae47",
+    "name": "UPPER DECK SUPER",
+    "symbol": "UDS"
+  }, {
+    "id": "0xe5a9f7d738a839e93e611b9bfa19251542c72427",
+    "name": "Gocoworker",
+    "symbol": "GOCO"
+  }, {
+    "id": "0xe5ac82edebc4c6256bdd84b6c8e2c6ce8f5e4d51",
+    "name": "I DONATE",
+    "symbol": "IDNT"
+  }, {
+    "id": "0xe5af306d3cdcf1fe9194f787bd42c6694ec150ab",
+    "name": "FlipsideToken",
+    "symbol": "FLIT"
+  }, {
+    "id": "0xe5b0792400a47af372486704eda0f1799ee83f54",
+    "name": "DotBased",
+    "symbol": "xDOT"
+  }, {
+    "id": "0xe5b4e06c6193da01b8843c3e5ae9c221bd2e99a2",
+    "name": "Rootkit.finance",
+    "symbol": "ROOT"
+  }, {
+    "id": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532",
+    "name": "ZEON",
+    "symbol": "ZEON"
+  }, {
+    "id": "0xe5ba0689485b4785f4e8859ee7e1a65b96d6e7b4",
+    "name": "Ponzi Scheme @ Ponzi.Finance",
+    "symbol": ""
+  }, {
+    "id": "0xe5bab43b7b6b8daab4be47a32b69529c099133ec",
+    "name": "Black hole monster",
+    "symbol": "BMD"
+  }, {
+    "id": "0xe5bbcaf38593e9a597b6aa348474bdab5bd3cf96",
+    "name": "Reflect Advanced Protocol",
+    "symbol": "RFA"
+  }, {
+    "id": "0xe5bc04919c2b373417b303d488ac3fee75dbe3a6",
+    "name": "Dollar Lending Protocol",
+    "symbol": "DLP"
+  }, {
+    "id": "0xe5bdd985910afede92c7de7c5b4fe5714fd1a8e7",
+    "name": "ANTICUCK",
+    "symbol": "ANTICUCK"
+  }, {
+    "id": "0xe5bef7ba03ae8f3fce58a94a465a3e7be42fc160",
+    "name": "Unspent Transaction Output",
+    "symbol": "UTXO"
+  }, {
+    "id": "0xe5c27f33d068c908f3a5a07eec194b387da87356",
+    "name": "uSwap",
+    "symbol": "USP"
+  }, {
+    "id": "0xe5c2eb3d886a6af4df5e2a3340465576f9621d69",
+    "name": "1688 Token",
+    "symbol": "1688"
+  }, {
+    "id": "0xe5c91e1d326ab1ac2dcc8639316c5d92a4e11bad",
+    "name": "fewrtfewtgeWWWWwWw",
+    "symbol": "QWEWW"
+  }, {
+    "id": "0xe5c96a42aebc62a6decbc6c7436209128cbf920b",
+    "name": "DomoGovernance.Org",
+    "symbol": "DOMO"
+  }, {
+    "id": "0xe5ca68b3ca2e219085914cd2a78f801c2d5ee29a",
+    "name": "EHS",
+    "symbol": "EHS"
+  }, {
+    "id": "0xe5ca886a176b95b98a8fc972def50c8593851380",
+    "name": "Compound Lite",
+    "symbol": "COMPL"
+  }, {
+    "id": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+    "name": "Ferrum Network Token",
+    "symbol": "FRM"
+  }, {
+    "id": "0xe5d2ffeed2f4c09faf5ab3f43b51067004d1684d",
+    "name": "EXODUS.IO",
+    "symbol": "EXD"
+  }, {
+    "id": "0xe5da649fc3245582a7d3f10d4e061b300ddc1946",
+    "name": "Pepperoni",
+    "symbol": "Roni"
+  }, {
+    "id": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+    "name": "DockToken",
+    "symbol": "DOCK"
+  }, {
+    "id": "0xe5dafc41d3da3c6ca29a828fcf926f2954ca1398",
+    "name": "AntiDIAToken",
+    "symbol": "XDIA"
+  }, {
+    "id": "0xe5dfd07a3df245ad8e8de61e2bfa21ff58d47784",
+    "name": "UBER BURN",
+    "symbol": "UBERBURN"
+  }, {
+    "id": "0xe5e6222a49ff7b09a312a0988aede1a12f73199a",
+    "name": "Cream Finance Protocol",
+    "symbol": "CFP"
+  }, {
+    "id": "0xe5f166c0d8872b68790061317bb6cca04582c912",
+    "name": "TE-FOOD",
+    "symbol": "TFD"
+  }, {
+    "id": "0xe5f260e18e4a5cd50f0bf83ce9584c452fd5ad64",
+    "name": "DeBank DeFi",
+    "symbol": "DBK"
+  }, {
+    "id": "0xe5f2d54057903c6325ca50c138cf5c22494bc341",
+    "name": "yearn.finance",
+    "symbol": "YFI"
+  }, {
+    "id": "0xe5f426b6495f40befaf00ea0ddba2be7267dc8e1",
+    "name": "UniPyro",
+    "symbol": "UPYRO"
+  }, {
+    "id": "0xe5f55919ec6cce97d6ee30c9e5492556e9e30ebb",
+    "name": "ydex.finance",
+    "symbol": "YDEX"
+  }, {
+    "id": "0xe5f55a3b74874531a99359b833b92866a6609f6b",
+    "name": "All The Smoke",
+    "symbol": "ATS"
+  }, {
+    "id": "0xe5f85ce7ad1d6b7c330dde62216e6e0d4cdb0ba1",
+    "name": "xKAPPI",
+    "symbol": "XKAPP"
+  }, {
+    "id": "0xe5fb5febbef64588dcba54aeb643d05a8ed02b91",
+    "name": "Mother of All Ponzis",
+    "symbol": "MOAP"
+  }, {
+    "id": "0xe5fc5816c3b6e726259fa986d1276874471788bb",
+    "name": "Tesseractforce token",
+    "symbol": "TFT"
+  }, {
+    "id": "0xe5fc800e34d3e104481ddd4467ea553bb94d9dd9",
+    "name": "test17",
+    "symbol": "TEST17"
+  }, {
+    "id": "0xe60242585fbacbd6f9493920fa32197e5728d1b1",
+    "name": "YFMOONBEAM",
+    "symbol": "YFMB"
+  }, {
+    "id": "0xe60e7c87a5f233ba40434c9098fe6483a51fd890",
+    "name": "AOP.Finance",
+    "symbol": "AOP"
+  }, {
+    "id": "0xe6179bb571d2d69837be731da88c76e377ec4738",
+    "name": "Wormhole.Finance",
+    "symbol": "WHOLE"
+  }, {
+    "id": "0xe61a69f68e2d2f283222a5b99dce2c623efc9969",
+    "name": "Core Finance (Official Relaunch)",
+    "symbol": "CORE9"
+  }, {
+    "id": "0xe61bea794653461657a8fb06b959cffe96e0fa03",
+    "name": "Zava Network",
+    "symbol": "ZAVA"
+  }, {
+    "id": "0xe61eecfdba2ad1669cee138f1919d08ced070b83",
+    "name": "VGTGToken",
+    "symbol": "VGTG"
+  }, {
+    "id": "0xe61fdaf474fac07063f2234fb9e60c1163cfa850",
+    "name": "Coin Utility Token",
+    "symbol": "COIN"
+  }, {
+    "id": "0xe620735b450703cc04076fed634ced9772c273c3",
+    "name": "Open Predict Token",
+    "symbol": "OPT"
+  }, {
+    "id": "0xe6249254fdedba0d927b279971609ab4b3ac610d",
+    "name": "Corol.Finance",
+    "symbol": "CLFI"
+  }, {
+    "id": "0xe627292d6c3be0453f44e893e7c1c3ec5b53d892",
+    "name": "Ethereum Uniswap Foundation",
+    "symbol": "EUF"
+  }, {
+    "id": "0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6",
+    "name": "Rebased",
+    "symbol": "REB"
+  }, {
+    "id": "0xe629e78df075cc736f05a0906fa7931b82c69e89",
+    "name": "Degen VC",
+    "symbol": "DGVC"
+  }, {
+    "id": "0xe62b96be77cfb3dfb79d5b599a3e336c23da51a0",
+    "name": "yfalp.finance",
+    "symbol": "YFALP"
+  }, {
+    "id": "0xe633ae9ed9bf8ea038a415d9d58d04a94aee8731",
+    "name": "syfi.finance",
+    "symbol": "SYFI"
+  }, {
+    "id": "0xe634b795998bd8f5b9177263229e31c79357c3b9",
+    "name": "pumpit.finance",
+    "symbol": "UPPP"
+  }, {
+    "id": "0xe63684bcf2987892cefb4caa79bd21b34e98a291",
+    "name": "Chicken",
+    "symbol": "KFC"
+  }, {
+    "id": "0xe6368ca5f1ee9ec75147e8e86088a74aff85f19a",
+    "name": "Strong Hands",
+    "symbol": "SHND"
+  }, {
+    "id": "0xe637bccaca90ce542f77a61cd30e47847a044e2b",
+    "name": "Cocofarm",
+    "symbol": "CCM"
+  }, {
+    "id": "0xe6397cfc0c47c8f7652068e4e40c37c59e46f339",
+    "name": "Hydraulic Coin",
+    "symbol": "HDRC"
+  }, {
+    "id": "0xe63983b5fade429ec052d1b365826c4bc5fcb198",
+    "name": "Penguin Fancy Shoes",
+    "symbol": "WIMD"
+  }, {
+    "id": "0xe63d8baf6e7503bd1abb2ba8868b257b400e4535",
+    "name": "HOPR Protocol",
+    "symbol": "HOPR"
+  }, {
+    "id": "0xe6410569602124506658ff992f258616ea2d4a3d",
+    "name": "KatanaToken",
+    "symbol": "KATANA"
+  }, {
+    "id": "0xe647316a260c52198d8b6a880c576f92c80e0dd1",
+    "name": "ORB BURN",
+    "symbol": "ORBB"
+  }, {
+    "id": "0xe64b47931f28f89cc7a0c6965ecf89eadb4975f5",
+    "name": "Ludos Protocol",
+    "symbol": "LUD"
+  }, {
+    "id": "0xe6523458ec21d5bbb0ae92b863d174557d98325e",
+    "name": "yZZZ",
+    "symbol": "yZZZ"
+  }, {
+    "id": "0xe652f93c15f817b5fde3e1810754d9b9e1c89c54",
+    "name": "DEFIBase",
+    "symbol": "DEFIB"
+  }, {
+    "id": "0xe655631d3c341bf09cbc54c987d16797a27a1858",
+    "name": "Syield.finance",
+    "symbol": "SYIELD"
+  }, {
+    "id": "0xe656010182282200aee86e47a8528bd1c8e87888",
+    "name": "HYGH",
+    "symbol": "HYGH"
+  }, {
+    "id": "0xe65ae84e8ff0de5e7d3b6f9f80220c95be6db4a1",
+    "name": "felinefac.finance",
+    "symbol": "FEL"
+  }, {
+    "id": "0xe65bfe0e2a7d4238deebf0ceb1c3a84f885a2ed7",
+    "name": "Pay Per Minute",
+    "symbol": "PPM"
+  }, {
+    "id": "0xe65fe68c24ce636e469a643167061fdea2f32215",
+    "name": "Babas Riches",
+    "symbol": "BRICH"
+  }, {
+    "id": "0xe6651dbc723669c82ae25e036c4cb21653cfb8b3",
+    "name": " Aegis.finance ",
+    "symbol": "  AGS"
+  }, {
+    "id": "0xe66630eaf94f187463f9a9a251863aa73e75a22a",
+    "name": "Molave Stom",
+    "symbol": "MOLAVE"
+  }, {
+    "id": "0xe666bcf60bdcfdc66fea10f27eab84e3f255ef72",
+    "name": "DalecoinFinance",
+    "symbol": "DFINE"
+  }, {
+    "id": "0xe667239fb6a03e7668245c2754c3f2e257b1c181",
+    "name": "Union Network",
+    "symbol": "UNN"
+  }, {
+    "id": "0xe66747a101bff2dba3697199dcce5b743b454759",
+    "name": "GateChainToken",
+    "symbol": "GT"
+  }, {
+    "id": "0xe66a4f0215009b3bdfdfaa6431d358368c10e49a",
+    "name": "Claim UNIg Token From Any Address",
+    "symbol": "CLAIM UNIg"
+  }, {
+    "id": "0xe670848d54788997942ecf938cd23b09550bae73",
+    "name": "TARO",
+    "symbol": "TARO"
+  }, {
+    "id": "0xe6710e0cda178f3d921f456902707b0d4c4a332b",
+    "name": "Julien",
+    "symbol": "JULIEN"
+  }, {
+    "id": "0xe674c0bacd142cf74c32212f6210d4b01e2de128",
+    "name": "TVB",
+    "symbol": "TVB"
+  }, {
+    "id": "0xe6757bdc9249645f7ebcb4ce8c58d2401ee916f0",
+    "name": "AntiScam Private Network (ASPN)",
+    "symbol": "ASPN"
+  }, {
+    "id": "0xe6775f3d08316af2dee95cfdadb29edd179b983a",
+    "name": "Axie Infinity Shard",
+    "symbol": "AXS"
+  }, {
+    "id": "0xe6793a63f05b3c09dd33093384349569a70a2bc5",
+    "name": "Imperium",
+    "symbol": "IMP"
+  }, {
+    "id": "0xe6793c9786a29bd80c6cbe35cfe5e47a8c4199d4",
+    "name": "xbast",
+    "symbol": "XBAST"
+  }, {
+    "id": "0xe67a7529f88623f8646386aa8767d5eea00db805",
+    "name": "Element Cion",
+    "symbol": "EMC"
+  }, {
+    "id": "0xe67eb2c2a5dee760e525169188d19bb556026a07",
+    "name": "Alluvium XRT",
+    "symbol": "AXRT"
+  }, {
+    "id": "0xe680905bba9eeeca9ad20404fa131086786575dd",
+    "name": "BTE.Finance",
+    "symbol": "BTE"
+  }, {
+    "id": "0xe68296991b9e4409c678dc770bf9cd5ecd84f2f5",
+    "name": "YangYong",
+    "symbol": "YY"
+  }, {
+    "id": "0xe68301308da0f1678a0caa2eeb549c4f4c35b905",
+    "name": "PearSwap.org",
+    "symbol": "PEAR"
+  }, {
+    "id": "0xe683a101e820836492c3b1d30663555c6244ba51",
+    "name": "YSUN Finance",
+    "symbol": "YSUN"
+  }, {
+    "id": "0xe68e0a418fe12f698d4b5781452c0a61573c6f4a",
+    "name": "Platinum Core Finance",
+    "symbol": "PCOF"
+  }, {
+    "id": "0xe692c8d72bd4ac7764090d54842a305546dd1de5",
+    "name": "ANY Blocknet",
+    "symbol": "aBLOCK"
+  }, {
+    "id": "0xe6930af789a1ea204a0bebca42af436b3992b173",
+    "name": "Arute Solutions",
+    "symbol": "ATS"
+  }, {
+    "id": "0xe69dd9104227a2e6aeb3a1291a80e5b525dd37d7",
+    "name": "Yearn Finance Keep3r",
+    "symbol": "YFIK"
+  }, {
+    "id": "0xe6a72416772753368a85aeb3f5c1ca8fcc0be60b",
+    "name": "VELO Token",
+    "symbol": "VELO"
+  }, {
+    "id": "0xe6afd856fe638a339ec674a67b45070702c83a45",
+    "name": "GoldenStreetsOfMumbai",
+    "symbol": "Pajeet"
+  }, {
+    "id": "0xe6b3eccb98b7fc1546a77762e74637dbf9ce4deb",
+    "name": "KP Vault",
+    "symbol": "KVLT"
+  }, {
+    "id": "0xe6b3fdf7a3ce2716cab1e0dd75a22ca9a66439b3",
+    "name": "888MPH Token",
+    "symbol": "MPH"
+  }, {
+    "id": "0xe6b5d972bf5cc6f8a9320c3ab8cdecbaf37693f0",
+    "name": "Sedro Protocol",
+    "symbol": "SEDRO"
+  }, {
+    "id": "0xe6b7e3102f8861337afc6cf3d9bf6b4f318412c3",
+    "name": "yxi.finance",
+    "symbol": "YXI"
+  }, {
+    "id": "0xe6be436df1ff96956dfe0b2b77fab84ede30236f",
+    "name": "Revelation Coin",
+    "symbol": "REV"
+  }, {
+    "id": "0xe6c2c240e1228980f322d76ed4c1f63078191bb5",
+    "name": "Basic Income Staking",
+    "symbol": "BIS"
+  }, {
+    "id": "0xe6c46e42256703de29e37b01a246e11a5b102c6b",
+    "name": "SXY Protocol",
+    "symbol": "SXY"
+  }, {
+    "id": "0xe6c7ae9fcd0ffe262e3a88dce868732bca92775f",
+    "name": "Mystic.Finance",
+    "symbol": "MST"
+  }, {
+    "id": "0xe6ca023f58907fa6c1a841f5ff16fe3b5c723639",
+    "name": "AssGuarD",
+    "symbol": "ASS"
+  }, {
+    "id": "0xe6e0a7aedfbad95bcaeb1c198dd7c75dc81c62f2",
+    "name": "Pier Re IA",
+    "symbol": "PRIA"
+  }, {
+    "id": "0xe6f28148d06de22b1704ddcf793b4fd5b13abc3d",
+    "name": "Profit.Farming",
+    "symbol": "PROF"
+  }, {
+    "id": "0xe6f49da15e4ac241f8fe4c142812e8a53a7031a4",
+    "name": "BANANAFORAPES",
+    "symbol": "BANA"
+  }, {
+    "id": "0xe6faaa4795d86e4f16f32da0aeb1b4d33c07f6c0",
+    "name": "Artificial Neural Networks",
+    "symbol": "ANNS"
+  }, {
+    "id": "0xe6fbca3863a667b5f22952c283edd1b51f9fd152",
+    "name": "pidao",
+    "symbol": "PIDAO"
+  }, {
+    "id": "0xe6fd75ff38adca4b97fbcd938c86b98772431867",
+    "name": "ELA on Ethereum",
+    "symbol": "ELA"
+  }, {
+    "id": "0xe6fe16ca2f435360203895fd3c3513a3e370a5c8",
+    "name": "Core Finance V2",
+    "symbol": "CF"
+  }, {
+    "id": "0xe6ff5611287f539622cae46a722d4854ffa7ec1c",
+    "name": "XMZ token",
+    "symbol": "XMZ"
+  }, {
+    "id": "0xe7000c75f571977ea0d3e49a669b2e8f880399e4",
+    "name": "Modularity Network",
+    "symbol": "MNU"
+  }, {
+    "id": "0xe701a631722e116e4b0179a1bf52cc49003aa846",
+    "name": "IMOX",
+    "symbol": "IMOX"
+  }, {
+    "id": "0xe70252f4bc0b476d2fb70a7b8a67705daaad5990",
+    "name": "GoldtToken",
+    "symbol": "GOLDT"
+  }, {
+    "id": "0xe70732c97f411f080e755c83a535568662824618",
+    "name": "DokiDoki.Finance",
+    "symbol": "DOKI"
+  }, {
+    "id": "0xe709b44ba2adfde8bb1a009d04dc419ec067d255",
+    "name": "YDMAN",
+    "symbol": "YDAMN"
+  }, {
+    "id": "0xe70adc55909168183508249eb3e364020edaefb2",
+    "name": "Yearn Finance Credit",
+    "symbol": "YFIC"
+  }, {
+    "id": "0xe70b67570979dd392f15209788cb867ed35ab4e4",
+    "name": "Tega.Finance",
+    "symbol": "TEGA"
+  }, {
+    "id": "0xe70bd37ebfb973786c336be0bfa26b068ef879b1",
+    "name": "UniLayer OFFICIAL",
+    "symbol": "LAYER"
+  }, {
+    "id": "0xe70eb57f4f4d22e97886e8bd79640317531b06ef",
+    "name": "PAMP 2.0",
+    "symbol": "P2MP"
+  }, {
+    "id": "0xe712322c9c113408fb04230bb188541165447666",
+    "name": "H3X-REMIX",
+    "symbol": "HRX"
+  }, {
+    "id": "0xe716637ba037e840a46a1cac83556a2dd83c0285",
+    "name": "CLOVYR",
+    "symbol": "CLOVYR"
+  }, {
+    "id": "0xe716bdcaef709f9685e843bf67842a3a1c449410",
+    "name": "rStake",
+    "symbol": "RST"
+  }, {
+    "id": "0xe718e626533c6a238804464798c19ff0ffb39b9a",
+    "name": "Pool",
+    "symbol": "POOL"
+  }, {
+    "id": "0xe7195e246a9a17c10dfbb6898b90f29055f4444f",
+    "name": "Domain Specific Language",
+    "symbol": "DSL"
+  }, {
+    "id": "0xe71a64c18ac347a475c68c0af800aee0ee55e1df",
+    "name": "Xeon Network",
+    "symbol": "XEON"
+  }, {
+    "id": "0xe71d2ed3478957137e7894fe1deda53865b8be3e",
+    "name": "Roobet.com",
+    "symbol": "RBT"
+  }, {
+    "id": "0xe72929ebb69713aee6de367be38cb23c7539694e",
+    "name": "REAL APE COIN",
+    "symbol": "RAPE"
+  }, {
+    "id": "0xe729aba138497caf5758eab54256af4ee205e5c2",
+    "name": "Emporium.Finance",
+    "symbol": "CEFI"
+  }, {
+    "id": "0xe72ef6762fda9250ac123d97f782561a83a82406",
+    "name": "Predictr.club",
+    "symbol": "PDCT"
+  }, {
+    "id": "0xe7344060f1da1a1f5c759faed07341dbd86d2bb0",
+    "name": "Wrapped HNS",
+    "symbol": "WHNS"
+  }, {
+    "id": "0xe73dd5a07e4d7d75229a180a713f80eea9e41cea",
+    "name": "Figure Finance Token",
+    "symbol": "FFT"
+  }, {
+    "id": "0xe74051e00dd88e6ed25fca0f264110e8daf8e39d",
+    "name": "QuantumHedge.Finance",
+    "symbol": "QHF"
+  }, {
+    "id": "0xe74451b66c0e5e61dbdd1cb9108d07f6f30c5eeb",
+    "name": "APEXToken",
+    "symbol": "APEX"
+  }, {
+    "id": "0xe7464018030fcce1803c39345882c6b12cec454d",
+    "name": "GrimmCom Finance System",
+    "symbol": "GRIMM"
+  }, {
+    "id": "0xe7479440babcdf926868999d70861c3860159e4a",
+    "name": "idt",
+    "symbol": "IDT"
+  }, {
+    "id": "0xe7480aa9ebef88958436ff7c26e57e4b2c2d597f",
+    "name": "corion.io",
+    "symbol": "CorionX"
+  }, {
+    "id": "0xe74b35425fe7e33ea190b149805baf31139a8290",
+    "name": "QCASH",
+    "symbol": "QC"
+  }, {
+    "id": "0xe74c74e989be298f34edd2160a61e2d754b5bec8",
+    "name": "Cerebrum Portal",
+    "symbol": "CRB"
+  }, {
+    "id": "0xe74d6339890d6640ef12e6fbcaf7116f331d6d5d",
+    "name": "Triatics",
+    "symbol": "TRA"
+  }, {
+    "id": "0xe74dbb4f39a728e6bc251b0cefc47416c679d110",
+    "name": "IBLOCK GAMES",
+    "symbol": "IBG"
+  }, {
+    "id": "0xe74edf15d0e5e9ad786d62f4e80d70e2a684b846",
+    "name": "Dubaku2",
+    "symbol": "DUBK2"
+  }, {
+    "id": "0xe74ee7aa604bdded1c68079fac402d159a617fea",
+    "name": "Compound Staking Token",
+    "symbol": "COMPST"
+  }, {
+    "id": "0xe74eec8259410f9503f3f2b263e04a5f561fadd6",
+    "name": "EGG",
+    "symbol": "EGG"
+  }, {
+    "id": "0xe75279c7e3c8cda7e22541702c9bc20a9cffd31c",
+    "name": "ValerisDAO",
+    "symbol": "VALRS"
+  }, {
+    "id": "0xe75414e10f93fa55aae3410df011f12bf3695bd1",
+    "name": "RadixDLT.com",
+    "symbol": "RADIX"
+  }, {
+    "id": "0xe755b6b109afc59b48e8b72ddf03721c9f767c18",
+    "name": "bnex.finance",
+    "symbol": "BNX"
+  }, {
+    "id": "0xe7588f4d45233eb3ae7f977a9bec4c495cdfea07",
+    "name": "MetaMask Swap",
+    "symbol": "METS"
+  }, {
+    "id": "0xe75899a17995a7df29b15f1e4e486b2c86287c51",
+    "name": "dasniodnaio",
+    "symbol": "grneiogng3"
+  }, {
+    "id": "0xe75ad3aab14e4b0df8c5da4286608dabb21bd864",
+    "name": "AcuteAngleCoin",
+    "symbol": "AAC"
+  }, {
+    "id": "0xe75d3b39d017985caf20fac7134ed55b8b47cc26",
+    "name": "heavensgate.finance",
+    "symbol": "HATE"
+  }, {
+    "id": "0xe762175fb99d1376676bff07888f9c4057c2e557",
+    "name": "Derfa",
+    "symbol": "DRF"
+  }, {
+    "id": "0xe762a4d586c0f86808362f65432528595ee1b911",
+    "name": "Stable Hourglass Staking",
+    "symbol": "HSH"
+  }, {
+    "id": "0xe76a999be9948f8909966497e3c270d77e5489c6",
+    "name": "BMY Chain",
+    "symbol": "BMY"
+  }, {
+    "id": "0xe76db7544a7349e32f891f22f620578bc847ab88",
+    "name": "KittySwaps",
+    "symbol": "KITTY"
+  }, {
+    "id": "0xe76f405344afb2df76dbfa94e97d1c46d01086d0",
+    "name": "WIFIDEFI",
+    "symbol": "WIFI"
+  }, {
+    "id": "0xe76fbd2235cda9953de2dd79b981ac45008b9ff0",
+    "name": "MerryChristmas",
+    "symbol": "XMAS"
+  }, {
+    "id": "0xe776bb6173a7b05c931734816849a07249c7b319",
+    "name": "xfinance.io",
+    "symbol": "XFI"
+  }, {
+    "id": "0xe7779654225bd2700714f693a9e48941d21cdcd3",
+    "name": "R3FL3CT",
+    "symbol": "R3FL3CT"
+  }, {
+    "id": "0xe77afc191e315635efccc3b626b5d8207cb7ad91",
+    "name": "oin.finance",
+    "symbol": "OIN"
+  }, {
+    "id": "0xe77cb2298ac6c1c4715f94a68c5c83c0982bb3a2",
+    "name": "SoftLink",
+    "symbol": "SLINK"
+  }, {
+    "id": "0xe77ce7059c1253acab73aeafe625682e1f839d7b",
+    "name": "Sergio",
+    "symbol": "SG"
+  }, {
+    "id": "0xe788e47882ff6670c527244fad546317cef3b33b",
+    "name": "degen.finance",
+    "symbol": "DEGEN"
+  }, {
+    "id": "0xe793e7ca71747af4f6a1e8af84ebf0055fbca997",
+    "name": "I-S-N",
+    "symbol": "ISN"
+  }, {
+    "id": "0xe79499e8bd60ccd5ca0518281e440185d738cbe2",
+    "name": "TONToken",
+    "symbol": "TON"
+  }, {
+    "id": "0xe799d5f13b3efb55132adbed3b6845bd3b14c024",
+    "name": "UniFi",
+    "symbol": "UFI"
+  }, {
+    "id": "0xe799f443f207d4af2779336bf98408f276869024",
+    "name": "Uniswap V2",
+    "symbol": "UNIV2"
+  }, {
+    "id": "0xe79df3f18ce8d95e4a2fdc08eeabe0e8b607f2db",
+    "name": "Yearn Cash",
+    "symbol": "YCH"
+  }, {
+    "id": "0xe7a261673914d0af329cd67ff9410f48734c67ae",
+    "name": "FLYcoin",
+    "symbol": "FLYcoin"
+  }, {
+    "id": "0xe7a64a10a56d618338dc6150aa199e4e932afae4",
+    "name": "VRIA",
+    "symbol": "VRIA"
+  }, {
+    "id": "0xe7a7148d3366527666dda5594256c66c2957fad5",
+    "name": "KYCDefi Token",
+    "symbol": "KYCD"
+  }, {
+    "id": "0xe7a7bcfb8fd304092995c5750cbbed1d545f5967",
+    "name": "LilSupplyToken",
+    "symbol": "LIL"
+  }, {
+    "id": "0xe7aac69d245954b8dfedf76337c9109e5b69ffcc",
+    "name": "DGG Voting Token",
+    "symbol": "DGV"
+  }, {
+    "id": "0xe7acf8eb8fddbf4c601f083bf1309755d99fd899",
+    "name": "LollipopToken",
+    "symbol": "LOL"
+  }, {
+    "id": "0xe7ad46a6a4fe273845992d5accbddbfabec71579",
+    "name": "pinetwork",
+    "symbol": "pinetwork"
+  }, {
+    "id": "0xe7ad6a626810adcfae4602648ae3fed6fd9ca36e",
+    "name": "Topaz Finance",
+    "symbol": "TPZ"
+  }, {
+    "id": "0xe7b120692f8508f2c26b6bd3eb6b8c4ec9062a86",
+    "name": "Rinkedy Network",
+    "symbol": "RINET"
+  }, {
+    "id": "0xe7b59ad4ed996ec0fb192c88f0464bb69d1381de",
+    "name": "opendefi.finance",
+    "symbol": "ORO"
+  }, {
+    "id": "0xe7b7c08587378271d9199afd3db808249291ff36",
+    "name": "Pajeet Coin",
+    "symbol": "Paajeet"
+  }, {
+    "id": "0xe7bc894cbeefb1d60f0401903a8377cbf52803c4",
+    "name": "RAMP DEFI",
+    "symbol": "RAMP"
+  }, {
+    "id": "0xe7be03e80e546e69d2225d6a56faf3fdd4ed5970",
+    "name": "yfired.network",
+    "symbol": "YFIN"
+  }, {
+    "id": "0xe7bedeec6e1338aaee57e6eeac6b0ba9ad49655f",
+    "name": "DNB",
+    "symbol": "DNB"
+  }, {
+    "id": "0xe7bf7fe480a707cf516b4dc431ea8958ab427220",
+    "name": "UCS",
+    "symbol": "UCS"
+  }, {
+    "id": "0xe7c0e8a0fb6806306ef606229b061b9bb7ea2bd6",
+    "name": "Kira Network",
+    "symbol": "KEX"
+  }, {
+    "id": "0xe7c52cad1d675e1265001f54807949391cb3d9eb",
+    "name": "Lightning Consortium",
+    "symbol": "JOLT"
+  }, {
+    "id": "0xe7c8a1d54cc2940d6c2c19cbff861a828de3ed92",
+    "name": "ETHC",
+    "symbol": "ETHC"
+  }, {
+    "id": "0xe7c9c188138f7d70945d420d75f8ca7d8ab9c700",
+    "name": "Basis Dollar Share",
+    "symbol": "BSDS"
+  }, {
+    "id": "0xe7ce60c200a6d0e01c76b180f40927efe531829a",
+    "name": "FastBurn",
+    "symbol": "FASTBURN"
+  }, {
+    "id": "0xe7cf94ff0d5b00d86d00e04a8946be1b96c6478b",
+    "name": "BCAC.finance",
+    "symbol": "BCAC"
+  }, {
+    "id": "0xe7d106966bc6ec07dd77a4a4689e296b58f1d55c",
+    "name": "BRRR.fi 3x v3",
+    "symbol": "BR3x"
+  }, {
+    "id": "0xe7d2914136e63f209f0e9de3100ed60ce18a3e8e",
+    "name": "CUPITOKEN",
+    "symbol": "CUPI"
+  }, {
+    "id": "0xe7d324b2677440608fb871981b220eca062c3fbf",
+    "name": "BullSwapToken",
+    "symbol": "BVL"
+  }, {
+    "id": "0xe7d652e72cbd0ead4fb535c1ac0d3dd73142705e",
+    "name": "hypechill.finance",
+    "symbol": "CHILL"
+  }, {
+    "id": "0xe7d7b37e72510309db27c460378f957b1b04bd5d",
+    "name": "empowr",
+    "symbol": "EMPR"
+  }, {
+    "id": "0xe7db1d1bfa25be2a16393fd1e2328ded58367a27",
+    "name": "DEPCO",
+    "symbol": "DEP"
+  }, {
+    "id": "0xe7fb24deed5f77c82d531f3a62209743331b87d3",
+    "name": "Oasis",
+    "symbol": "ROSE"
+  }, {
+    "id": "0xe7fb6b88e238278230ce84d17373bf96f2f38c16",
+    "name": "Mooniswap Token by 1inch",
+    "symbol": "MSWAP"
+  }, {
+    "id": "0xe7fb8aa6593ff2b1da6254d536b63284f16896b5",
+    "name": "Cows Finance",
+    "symbol": "COWS"
+  }, {
+    "id": "0xe7fd6f20c141f557398bcd10b12f5282fea702f5",
+    "name": "Indos",
+    "symbol": "INDO"
+  }, {
+    "id": "0xe802e87bffcc89ac511681fd2ee958ed8c1c161c",
+    "name": "UniMex Token @ UniMex.Finance",
+    "symbol": "UMEX"
+  }, {
+    "id": "0xe80599e2899b85cbb90bdbf1449bfb71f8c5deaf",
+    "name": "DEFInitve.eth",
+    "symbol": "DEVE"
+  }, {
+    "id": "0xe80925e4d1502c09a4fa7ddf2b69b86459465b7c",
+    "name": "XDefi.Finance",
+    "symbol": "XDefi"
+  }, {
+    "id": "0xe8097ea6c2ae93e9a11232ff4a1793af49451b86",
+    "name": "Cybercoin",
+    "symbol": "CBR"
+  }, {
+    "id": "0xe8126e3405dd28c559c0a354bb2bf761ad04e8ac",
+    "name": "Games Of Wars Token",
+    "symbol": "GOW"
+  }, {
+    "id": "0xe813e764f9800f20a834f70cd4379a92118fbd19",
+    "name": "Pandora Reserve",
+    "symbol": "PARE"
+  }, {
+    "id": "0xe814aee960a85208c3db542c53e7d4a6c8d5f60f",
+    "name": "DAY",
+    "symbol": "DAY"
+  }, {
+    "id": "0xe815b59dd7b3619660712c683f2f9dd98d2cd776",
+    "name": "YfiDropfinance",
+    "symbol": "YFD"
+  }, {
+    "id": "0xe81b8b955e500214110bb5a065cd9ba7819f4f0f",
+    "name": "YFZ.Finance",
+    "symbol": "YFZ"
+  }, {
+    "id": "0xe81df0ccf2ea2ecb07377b4e7a69859e995793c8",
+    "name": "Yearn Finance Leverages",
+    "symbol": "YFIL"
+  }, {
+    "id": "0xe81fddc688642a0c58fa78ed036709e300c3eb23",
+    "name": "FREXA ERC-1404 Test3",
+    "symbol": "FRXT3"
+  }, {
+    "id": "0xe822fa6ad21b7578bce78732755f7a3a352f201b",
+    "name": "TushiToken",
+    "symbol": "TUSHI"
+  }, {
+    "id": "0xe8272210954ea85de6d2ae739806ab593b5d9c51",
+    "name": "Alpha5Token",
+    "symbol": "A5T"
+  }, {
+    "id": "0xe82795533289615e97e92b9f67532c43c026eb9a",
+    "name": "Stock Map Token",
+    "symbol": "SMP"
+  }, {
+    "id": "0xe82941f13f6dadff2f0fddaa675357e2087d78ed",
+    "name": "Test Token",
+    "symbol": "TTT"
+  }, {
+    "id": "0xe8295b753ee9656f28825194fd800d0e5d3cd86d",
+    "name": "Euler",
+    "symbol": "EXP"
+  }, {
+    "id": "0xe829b31b690c5a04091befdedf42ebde1ac6ad81",
+    "name": "Fruit V4",
+    "symbol": "FRUIT"
+  }, {
+    "id": "0xe837503418272cd586bc940cf566f488770edfa8",
+    "name": "Litecoin Swap",
+    "symbol": "LCS"
+  }, {
+    "id": "0xe841dc3aa4ef3e77ed5d7b8e0e6a7bee7770cde9",
+    "name": "Frqtal",
+    "symbol": "FRQ"
+  }, {
+    "id": "0xe842b3b355c6c777752506c03d948dae24f977ae",
+    "name": "TheToken",
+    "symbol": "KUNKUN"
+  }, {
+    "id": "0xe845573af63e99f1e11ae2df1408dbeb69cf221a",
+    "name": "yfdai.finance",
+    "symbol": "YFDAI"
+  }, {
+    "id": "0xe8457cbb27eb2dadf0b68e9e38aec039dba5e1e4",
+    "name": "FARMIT",
+    "symbol": "FRMT"
+  }, {
+    "id": "0xe8492ff7b1817292bab0d5c25dc443d7d0f0570d",
+    "name": "Dont Buy This Token",
+    "symbol": "DBT"
+  }, {
+    "id": "0xe850520e4b6a0cddfbc82572fa93d0debe9a5955",
+    "name": "pls do not buy",
+    "symbol": "PLSNO"
+  }, {
+    "id": "0xe853f71996f4bae84da2f1c9218ddcf5b486dacc",
+    "name": "Behance Token",
+    "symbol": "BETN"
+  }, {
+    "id": "0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac",
+    "name": "FARM_DAI",
+    "symbol": "fDAI"
+  }, {
+    "id": "0xe85d69d5e7b91b1a0d2e93a3678315e6915197b2",
+    "name": "JBG",
+    "symbol": "JBG"
+  }, {
+    "id": "0xe86329b02285047d1f3e4e8e266da9c9c8e7648e",
+    "name": "StrongBlock",
+    "symbol": "STRONG"
+  }, {
+    "id": "0xe86745939ff774a85931d5ac9fef1e36477e4eee",
+    "name": "YFINSTAKE v2t",
+    "symbol": "YFIv2t"
+  }, {
+    "id": "0xe8674be164bfdcf32be0d7a2c195e589aa7c8c6b",
+    "name": "xYFI.finance",
+    "symbol": "xYFI"
+  }, {
+    "id": "0xe86c25453cf705ca2cc742a2bc5355ffdb6a84c8",
+    "name": "Liyam Token",
+    "symbol": "Lyth"
+  }, {
+    "id": "0xe86f0d2cd56412f38f745795aa29470bb323b63e",
+    "name": "mooon.cash",
+    "symbol": "mooon"
+  }, {
+    "id": "0xe86fad3d3df05ebc12a3f78f8164cf54a1de8435",
+    "name": "ParticleSwap",
+    "symbol": "PTS"
+  }, {
+    "id": "0xe875c61d4721424a6988e5fa2dfb8d6ca6af5c64",
+    "name": "Pi Futures",
+    "symbol": "Pi"
+  }, {
+    "id": "0xe876de0e0158bfac60ee7e0751b13fe49b807c37",
+    "name": "YFIlll Coin",
+    "symbol": "YFIllll"
+  }, {
+    "id": "0xe87a4e0b92aff4f84d1291438e920149b9f9ffb3",
+    "name": "yamv3.a.finance",
+    "symbol": "YAMv3"
+  }, {
+    "id": "0xe87b5ccf973e0b40b1cb197a3e66a7af4378e837",
+    "name": "dEFI LIST",
+    "symbol": "eFIL"
+  }, {
+    "id": "0xe87dc474fc4e8ec31b4d1f3a40688ec8ee19f2e7",
+    "name": "DGBProtokol",
+    "symbol": "DGB"
+  }, {
+    "id": "0xe88348a63bd14ee4ed0ac416caefd730cf3a36a9",
+    "name": "YFIN STAKE v2f",
+    "symbol": "YFINv2F"
+  }, {
+    "id": "0xe884b12b6b69b0b12176713e6aa7e8dccdda9bb1",
+    "name": "Apym",
+    "symbol": "APYM"
+  }, {
+    "id": "0xe884cc2795b9c45beeac0607da9539fd571ccf85",
+    "name": "Ultiledger",
+    "symbol": "ULT"
+  }, {
+    "id": "0xe888730325620bcab4df7852222d3b041c8479a8",
+    "name": "SPAM Token",
+    "symbol": "SPAM"
+  }, {
+    "id": "0xe88b508cbfe9cc110d4aa7a77a93a0c8f06ab6a0",
+    "name": "Entry Token",
+    "symbol": "ENTRY"
+  }, {
+    "id": "0xe88b78c3db2383f5868d4f38f32f954b26e41118",
+    "name": "DeFiLoan",
+    "symbol": "DLOAN"
+  }, {
+    "id": "0xe88ba7768ff045e7f2b14d3b93830fdf78f4d08c",
+    "name": "Bitcoin ETN",
+    "symbol": "BitETN"
+  }, {
+    "id": "0xe88c478aa588a06dba23808b309eb9701ffbfa71",
+    "name": "BerkshireHatawayCoin",
+    "symbol": "BRK.C"
+  }, {
+    "id": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+    "name": "Sora Validator Token",
+    "symbol": "VAL"
+  }, {
+    "id": "0xe8915a6d16e9371ee0a26311a61ad1fc8513727f",
+    "name": "Colin",
+    "symbol": "COLIN"
+  }, {
+    "id": "0xe891b5be0a00eecb0f0e3e0bbab55b314b50f399",
+    "name": "OCTACORE",
+    "symbol": "OCTA"
+  }, {
+    "id": "0xe891bb7e38ece622f2ccf469f3619fcf51cb7d66",
+    "name": "Mega Poop",
+    "symbol": "POOP"
+  }, {
+    "id": "0xe89458774426e2e8902fa3d89224081496a97dfd",
+    "name": "CarelessWhisper",
+    "symbol": "Whisper"
+  }, {
+    "id": "0xe894635d59b7ba1f83063d37be50072658cebd3b",
+    "name": "HYVE.works",
+    "symbol": "HYVE"
+  }, {
+    "id": "0xe8991e72e2543cc39ee02a6010c2422583547e9e",
+    "name": "KYCcrypto",
+    "symbol": "KYC"
+  }, {
+    "id": "0xe89c893adfee113acea930c03668cf0c6c38f793",
+    "name": "TOKYO.hodlcities.com",
+    "symbol": "TOKYO"
+  }, {
+    "id": "0xe89e80ce91416ece0200cc919905634e824e6a55",
+    "name": "Vzade test token",
+    "symbol": "VZD"
+  }, {
+    "id": "0xe89feebfbc79f9ab6cbbb0231e9fc0a1c0ad2b66",
+    "name": "Archangel",
+    "symbol": "ARCH"
+  }, {
+    "id": "0xe8a008eb06597258214cbd6b4d9ca84ba4a7a09f",
+    "name": "STOKR",
+    "symbol": "STR"
+  }, {
+    "id": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+    "name": "ESZCoin",
+    "symbol": "ESZ"
+  }, {
+    "id": "0xe8a4aa7ca96fb2e0b44ddfb207738f2e5b8d3aa9",
+    "name": "yearnchange",
+    "symbol": "YFC"
+  }, {
+    "id": "0xe8a4e4ac4da3d0d937c34d8acf795816cac4e62f",
+    "name": "covault.network",
+    "symbol": "CORIA"
+  }, {
+    "id": "0xe8a754879f105d3dc94dd8f5f4ea20ad9a1e0ea5",
+    "name": "DDC",
+    "symbol": "DDC"
+  }, {
+    "id": "0xe8ab6f8a4356ab83f636fcc3cdc34b0c135f100b",
+    "name": "Magic Token",
+    "symbol": "MAGIC"
+  }, {
+    "id": "0xe8ade31f7d73c3877361cbaf798fc94cca5c354e",
+    "name": "Hermez Network",
+    "symbol": "HEZ"
+  }, {
+    "id": "0xe8b251822d003a2b2466ee0e38391c2db2048739",
+    "name": "rbase.finance",
+    "symbol": "RBASE"
+  }, {
+    "id": "0xe8b83805d7c2a74d26b4f6a281ddb4ea602fa8c2",
+    "name": "Lakers Empire",
+    "symbol": "LAKs"
+  }, {
+    "id": "0xe8bb7be15c495db1310412f95dec559befc066e1",
+    "name": "YFII.FINANCE",
+    "symbol": "YFII"
+  }, {
+    "id": "0xe8bd0075d2654395e48ff06ef5e27150f3abc9e3",
+    "name": "test",
+    "symbol": "test"
+  }, {
+    "id": "0xe8c10fd6cafd4675d2237f2837554feb43a30db5",
+    "name": "HATCH",
+    "symbol": "HATCH"
+  }, {
+    "id": "0xe8c1e26f54b53f3fe749b33a5abfdd4312e096be",
+    "name": "Plasmium Curve",
+    "symbol": "PCURVE"
+  }, {
+    "id": "0xe8c631d0605d8dc731f8605d95e5525fbb027e0c",
+    "name": "Keep3rV2",
+    "symbol": "KP3R"
+  }, {
+    "id": "0xe8c7a702e6cb8be6832ab808dc446a63561db2b0",
+    "name": "Zimich",
+    "symbol": "ZIMICH"
+  }, {
+    "id": "0xe8cb49faad52a5623ba0aacdca5239a7f95d5caf",
+    "name": "DaoFi.Finance",
+    "symbol": "DAOFI"
+  }, {
+    "id": "0xe8cdcc92ef3e13cfa27f2d986c82ccbb25809cd1",
+    "name": "cfloor.finance",
+    "symbol": "CFLOOR"
+  }, {
+    "id": "0xe8d1480bf925e607d66a0b2d37433c18916b1f27",
+    "name": "Zero Finance",
+    "symbol": "ZNC"
+  }, {
+    "id": "0xe8d17542dfe79ff4fbd4b850f2d39dc69c4489a2",
+    "name": "KiloAmple",
+    "symbol": "kMPL"
+  }, {
+    "id": "0xe8d3b3c90f81310d61cd5a067ed3dd096513c332",
+    "name": "swape.finance",
+    "symbol": "SWFI"
+  }, {
+    "id": "0xe8d6331e40511f206f9266df1b43ed9ced2f256b",
+    "name": "nobrainer.finance",
+    "symbol": "BRAIN"
+  }, {
+    "id": "0xe8d73f84b6458927bc703c23999ec5aae4224c1f",
+    "name": "Tensor Network",
+    "symbol": "TN"
+  }, {
+    "id": "0xe8dc7d21a0d07f83036f38b66a625db5e47bd2d7",
+    "name": "OOF",
+    "symbol": "OOF"
+  }, {
+    "id": "0xe8dcd8384acd9c25f6580a2674ea1944a0dea27f",
+    "name": "18 PLUS",
+    "symbol": "18PLUS"
+  }, {
+    "id": "0xe8e0e333ee6d895040373677d0961bf7a62e785c",
+    "name": "Renrencoin",
+    "symbol": "RRC"
+  }, {
+    "id": "0xe8e58a91654adfc135e89c9dd0f39a3177232fbd",
+    "name": "YFine.Finance Value",
+    "symbol": "YFFV"
+  }, {
+    "id": "0xe8e66d9682bb27d9adaf5c7de8803f388192c4f6",
+    "name": "XMON",
+    "symbol": "XMON"
+  }, {
+    "id": "0xe8e6c71537acac3bdb7fc99f04c633548912c8cd",
+    "name": "YFDToken",
+    "symbol": "YFD"
+  }, {
+    "id": "0xe8e96714954bfd56c1bd595acce5ba8371dc5743",
+    "name": "fireprotocol.io",
+    "symbol": "FIRE"
+  }, {
+    "id": "0xe8e9d7af466544b0d2bdd28cd0c0f1bbf14e71f1",
+    "name": "AnyTrade",
+    "symbol": "ATD"
+  }, {
+    "id": "0xe8ed08a581777f112654e28de507e11613da0379",
+    "name": "Yearn Finance Center",
+    "symbol": "YFC"
+  }, {
+    "id": "0xe8f021752ce3ffccdab70bbd8352ac3d89df0d2d",
+    "name": "LARRY",
+    "symbol": "LRY"
+  }, {
+    "id": "0xe8f3d5e92b401a5892e8ee031e88dbead1c970c8",
+    "name": "planetariumhq.digital",
+    "symbol": "PLAHQ"
+  }, {
+    "id": "0xe8fbbc11a5142ffb8ad68e47e3214e331816c4f3",
+    "name": "Keep9rV1",
+    "symbol": "KP9R"
+  }, {
+    "id": "0xe8fcf5e2ada14994e734adc05620a5aaf7d3300c",
+    "name": "yfOMEGA",
+    "symbol": "YFOMEGA"
+  }, {
+    "id": "0xe905e3fed25b54a3a7280096aa1001b81646d316",
+    "name": "German BXUU bonus game",
+    "symbol": "BXUU"
+  }, {
+    "id": "0xe905f1d724548320235b0ee526f501d9be65a50d",
+    "name": "SGON token",
+    "symbol": "SGON"
+  }, {
+    "id": "0xe90625875b2dc0f61db1d2da443d79de0af9f551",
+    "name": "Serumm",
+    "symbol": "SRMM"
+  }, {
+    "id": "0xe90833062e3b26f4ae70a9a57721fca4d07210fd",
+    "name": "Swaap",
+    "symbol": "SAP"
+  }, {
+    "id": "0xe911c78cf4c7803f1f123cb7cc1721dafd060299",
+    "name": "IBB Test",
+    "symbol": "IBBTT"
+  }, {
+    "id": "0xe9133c366cd649ffc6661bb8109f0fb1f8f8e871",
+    "name": "Soviet",
+    "symbol": "SOV"
+  }, {
+    "id": "0xe9151e814cbcd64bd2a0f0c7ea60d70b2b895d8f",
+    "name": "PUNK",
+    "symbol": "PUNK"
+  }, {
+    "id": "0xe91856d4475b436daab2196ec9cc5fa67a7941c6",
+    "name": "ULVA FINANCE",
+    "symbol": "ULFI"
+  }, {
+    "id": "0xe9193b6ea9d5b720d7352373284ce899614a151d",
+    "name": "Pillar",
+    "symbol": "PLR"
+  }, {
+    "id": "0xe9196d4a6746b93f461de3e0ca563d599f190266",
+    "name": "Bit Element",
+    "symbol": "BTY"
+  }, {
+    "id": "0xe91ab97f0823972b2fafd3453088cd0e9eea5857",
+    "name": "OroPocket",
+    "symbol": "ORO"
+  }, {
+    "id": "0xe920ac2388c87b2fc5cbc61adaa05f832e520b46",
+    "name": "halloweenburn.com",
+    "symbol": "HLF"
+  }, {
+    "id": "0xe921cfe943314630e2dd8ac168b303831ab21a2d",
+    "name": "Gelato Token",
+    "symbol": "GLT"
+  }, {
+    "id": "0xe924a962d244eb58a5fa90b027898cdbf22659b3",
+    "name": "pizzahut.finance",
+    "symbol": "PIZZAHUT"
+  }, {
+    "id": "0xe924ca49b551d0e0c0d70cbb3f88036e0c76726b",
+    "name": "Social Rocket",
+    "symbol": "ROCKS"
+  }, {
+    "id": "0xe92585f17a42ee815a0ba448657f41f52f6b23e5",
+    "name": "DLP Token",
+    "symbol": "DLP"
+  }, {
+    "id": "0xe927ab0f574f779146d04b0b5d68fe1f362a5680",
+    "name": "uGAS-Feb21",
+    "symbol": "UGAS"
+  }, {
+    "id": "0xe92a174300a58220c334b04addd8d13368c7c31b",
+    "name": "devilishburning.farm",
+    "symbol": "DBF"
+  }, {
+    "id": "0xe930a3bde209470a8f04bb25bd518884dfd5e9e3",
+    "name": "LUN Network",
+    "symbol": "LUNN"
+  }, {
+    "id": "0xe932043e47cb5fa3bbddf0fdcb1a0bc1126af416",
+    "name": "Yield Swap Protocol",
+    "symbol": "YSP"
+  }, {
+    "id": "0xe932cae1a787e80c8626d01811005cdbbc30edcd",
+    "name": "DefiCoin Token",
+    "symbol": "DFCT"
+  }, {
+    "id": "0xe935093a4977b35d5cb6086e9663da656a36ec30",
+    "name": "HexVoting",
+    "symbol": "HXV"
+  }, {
+    "id": "0xe9367790622cdc36fcf9afd28b2281ab1c3e1d79",
+    "name": "basis.cash/",
+    "symbol": "BASIS"
+  }, {
+    "id": "0xe937249f5d9b93b47a3a109c372b9b0ab37da0ea",
+    "name": "The Sandbox",
+    "symbol": "SAND"
+  }, {
+    "id": "0xe93764887585a0c625a7838d27749dcdc59fb89f",
+    "name": "RobinHood DAO",
+    "symbol": "ROBIN"
+  }, {
+    "id": "0xe93dcfb4372ee8360857c89549e58edec3640881",
+    "name": "MakerCoin",
+    "symbol": "MAKEC"
+  }, {
+    "id": "0xe9487d11db68895a48f75ae575a1ad534d60b96a",
+    "name": "Island Economics",
+    "symbol": "IEC"
+  }, {
+    "id": "0xe954eaea2ebc962a287e3f87e99ed901dc55148a",
+    "name": "RUNUP",
+    "symbol": "RUN"
+  }, {
+    "id": "0xe9554160865134bd8404243ffd7374f377673293",
+    "name": "Junkyard Factory Token",
+    "symbol": "JUNK"
+  }, {
+    "id": "0xe955b045164446a3477cf020431da73fa752c565",
+    "name": "Statera v2",
+    "symbol": "STA"
+  }, {
+    "id": "0xe957aab4f09159f8f1223fdc6be048b206d036c4",
+    "name": "Woinwol.com",
+    "symbol": "woin"
+  }, {
+    "id": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+    "name": "Ankr ETH",
+    "symbol": "ankrETH"
+  }, {
+    "id": "0xe95e4440493e5b96e79d63e8dc43ab676dd44e4c",
+    "name": "AntiSeal",
+    "symbol": "ANTISEAL"
+  }, {
+    "id": "0xe96377378336d7e465e1af647c2da18d6825fc71",
+    "name": "ArdropFinanceTOKEN",
+    "symbol": "AirdropFIN"
+  }, {
+    "id": "0xe966e1e37336439e9ae76eb982e4b9b994985c40",
+    "name": "SIMP",
+    "symbol": "SIMP"
+  }, {
+    "id": "0xe973cb9b11b104afc0618d10f538b4bbff4bc678",
+    "name": "BAT TOKEN",
+    "symbol": "BAT"
+  }, {
+    "id": "0xe974b42bf743f5955e434662f0f3d74f84d0eae9",
+    "name": "Core Finance V3.1",
+    "symbol": "CF31"
+  }, {
+    "id": "0xe979612070df177c143bbd025cbf725bf19012a0",
+    "name": "PIMONX",
+    "symbol": "PMONX"
+  }, {
+    "id": "0xe97dfe37ce77e673d66dcd21321652d3feefe081",
+    "name": "jewelry mineral swap",
+    "symbol": "JMS-T"
+  }, {
+    "id": "0xe97e67c1212f5e05bdefe839805c4a0220172078",
+    "name": "FolderCoinV2",
+    "symbol": "FOLV2"
+  }, {
+    "id": "0xe98b62cd29a561d23786607b9b7f44096351872f",
+    "name": "Yield Farm Rice @ YFR.money",
+    "symbol": "YFR"
+  }, {
+    "id": "0xe991028e86741b118db30f9606a9c4685fb88ffb",
+    "name": "Sombrero",
+    "symbol": "SOM"
+  }, {
+    "id": "0xe9916fe6e65307a4189b2f9a56c315090fbf5673",
+    "name": "JointRewardGame",
+    "symbol": "JRGAME"
+  }, {
+    "id": "0xe992824b92309b5959c4ac9bf989cac5324c5a2e",
+    "name": "UniTopia V3",
+    "symbol": "uTOPIA"
+  }, {
+    "id": "0xe99c56dff78637185283cb7b9ab7d2a7295d4a36",
+    "name": "SCHAIN TOKEN",
+    "symbol": "SCHA"
+  }, {
+    "id": "0xe9a5a239b4f249bc318f7e1efd4a01f041c5c874",
+    "name": "YFIIII Coin",
+    "symbol": "YFIIII"
+  }, {
+    "id": "0xe9a8f08cb2bcba7cfd0ab4718a6793a8ccde34da",
+    "name": "DORELBANK",
+    "symbol": "DBK"
+  }, {
+    "id": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+    "name": "ChangeNOW",
+    "symbol": "NOW"
+  }, {
+    "id": "0xe9afb360ad146e00b3871a528ee2ac54bb7e254f",
+    "name": "Pearl Rush Coin",
+    "symbol": "MPR"
+  }, {
+    "id": "0xe9aff5b088eea48fa3d470d4270f9e197249d105",
+    "name": "Dynamic Yield",
+    "symbol": "DYD"
+  }, {
+    "id": "0xe9b185b30f0d172fe130937c3c0fe142e5eb7701",
+    "name": "Phoenix  Coin",
+    "symbol": "PXC"
+  }, {
+    "id": "0xe9b20532247c7032303d496c4c846b283f81ba6f",
+    "name": "X50 Finance",
+    "symbol": "X50"
+  }, {
+    "id": "0xe9b3a93a91eaadb1b9aac44e960e08ca36e08f43",
+    "name": "yeast.finance",
+    "symbol": "YEA"
+  }, {
+    "id": "0xe9b60aea214e1a7f3f5e5347a89626ab9f7ce7cb",
+    "name": "yearn finance pie",
+    "symbol": "YFPIE"
+  }, {
+    "id": "0xe9b87d51c7ebb92bc382958cc0dc4107a2c1a534",
+    "name": "Emperor",
+    "symbol": "Emperor"
+  }, {
+    "id": "0xe9b8897f3bd92a5845cdeaaebea1be5703d53fe2",
+    "name": "FMO.network",
+    "symbol": "FMO"
+  }, {
+    "id": "0xe9ba0166b830c34dd20579d375618ba1f97aca1f",
+    "name": "UniTrade Finance",
+    "symbol": "UTFI"
+  }, {
+    "id": "0xe9bb22b2063daba021b0384d8535badd1426fba7",
+    "name": "Pyrabank Private",
+    "symbol": "PBPRV"
+  }, {
+    "id": "0xe9bee5879a00fad6e73d634c3e4aefc9c7aa7ae5",
+    "name": "CROP",
+    "symbol": "CROP"
+  }, {
+    "id": "0xe9c80a8f67d1a618b7746899ad1ec1ee2f65686b",
+    "name": "Tryvium",
+    "symbol": "TRYV"
+  }, {
+    "id": "0xe9c8934ebd00bf73b0e961d1ad0794fb22837206",
+    "name": "yearn.finance",
+    "symbol": "YFI"
+  }, {
+    "id": "0xe9cbce9ac2467f9bf5e79498061809a6fb38e745",
+    "name": "Atom",
+    "symbol": "ATOM"
+  }, {
+    "id": "0xe9ccd4b9205924a4dc7a9ae5f83930cdb2fc999a",
+    "name": "QQswap",
+    "symbol": "QQX"
+  }, {
+    "id": "0xe9cd0fd2b8c023c89bf873e804c7ae9989db6081",
+    "name": "CRIA",
+    "symbol": "CRIA"
+  }, {
+    "id": "0xe9d17d83eae3c776af502726bad4f129e817acdf",
+    "name": "VoiceTopic",
+    "symbol": "VOI"
+  }, {
+    "id": "0xe9d6542abd3efca6a486562f96a94014c8198251",
+    "name": "Liquid Core",
+    "symbol": "LCORE"
+  }, {
+    "id": "0xe9d7d2e930df7a7f02419b01d9355e5e66d6a216",
+    "name": "R33P",
+    "symbol": "R33P"
+  }, {
+    "id": "0xe9dbfa844cbb30cc8532c0190c1cb8e4a736f70c",
+    "name": "ReviewFriendz",
+    "symbol": "RFZ"
+  }, {
+    "id": "0xe9e75d51fffd8a66d76314c6a5c02f93c1da61b1",
+    "name": "OmegaFi Protocol",
+    "symbol": "OFP"
+  }, {
+    "id": "0xe9e8f96049d49ec9c8586407858eab76fd678c09",
+    "name": "OG Fan Token",
+    "symbol": "OG"
+  }, {
+    "id": "0xe9f5809eb219c1d9b6c87eee3f0ffe3803926e37",
+    "name": "Gold Coin.",
+    "symbol": "GOLD"
+  }, {
+    "id": "0xe9f6d57dd05636be67ab4510ff8525d321cacf9c",
+    "name": "Lit Finance",
+    "symbol": "LIT"
+  }, {
+    "id": "0xe9f8250884348475e81ddc4a3b54d5c0d71956bf",
+    "name": "Utopia Genesis Foundation",
+    "symbol": "UOP"
+  }, {
+    "id": "0xe9f871a2a509dca0048722b664cd020d383ebf67",
+    "name": "DIAToken",
+    "symbol": "DIA"
+  }, {
+    "id": "0xe9fe466a6259d81cdd58710a41452d166c3f864a",
+    "name": "BooFinance",
+    "symbol": "BOOF"
+  }, {
+    "id": "0xea004e8fa3701b8e58e41b78d50996e0f7176cbd",
+    "name": "yffc.finance",
+    "symbol": "YFFC"
+  }, {
+    "id": "0xea07e4f554257dcd9a3dbc24ad348dac3904364e",
+    "name": "flowprotocol.finance",
+    "symbol": "FLOWS"
+  }, {
+    "id": "0xea08df2415ae54cdf11c58c1f184238485b0a858",
+    "name": "SandwichToken",
+    "symbol": "SWH"
+  }, {
+    "id": "0xea097a2b1db00627b2fa17460ad260c016016977",
+    "name": "Upfiring",
+    "symbol": "UFR"
+  }, {
+    "id": "0xea0999e0b1fcd995fe7e4e430be6ec91255b25c8",
+    "name": "COCA",
+    "symbol": "COCA"
+  }, {
+    "id": "0xea0bea4d852687c45fdc57f6b06a8a92302baabc",
+    "name": "Counsel",
+    "symbol": "CNSL"
+  }, {
+    "id": "0xea0d84807b2a5235e08879dfafa171ea768d5979",
+    "name": "Social Phobia",
+    "symbol": "SPHOBIA"
+  }, {
+    "id": "0xea0db24174739ac14110fa992da89d2daa98e50e",
+    "name": "upbtcToken",
+    "symbol": "UP"
+  }, {
+    "id": "0xea0e7aab6d6f5a0cb3f454dc07b46a093be7c16d",
+    "name": "Most Expensive Token",
+    "symbol": "MET"
+  }, {
+    "id": "0xea1a51e68cfd8bd72a529241890b9deabfe0cced",
+    "name": "Aragon Chain",
+    "symbol": "ARA"
+  }, {
+    "id": "0xea1ceaa4951faa40b9a960bd318e649cdf16bf02",
+    "name": "CWTT",
+    "symbol": "CWTT"
+  }, {
+    "id": "0xea23c86c8cd41b7680b23e737ca6dcffa363bffc",
+    "name": "persistence.one",
+    "symbol": "XPRT"
+  }, {
+    "id": "0xea24385050d584321a712710c419cf1de960162c",
+    "name": "POLEM",
+    "symbol": "PLM"
+  }, {
+    "id": "0xea26078dc3b247b783a1dd9de05711b36d0b3c5e",
+    "name": "Zeus Raiden Network",
+    "symbol": "ZRN"
+  }, {
+    "id": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+    "name": "QuarkChain Token",
+    "symbol": "QKC"
+  }, {
+    "id": "0xea2715288afa9a6979025961796e33177d4985fc",
+    "name": "Yearn Vaults V2",
+    "symbol": "YFI-V2"
+  }, {
+    "id": "0xea294d1485a527f7e8f1971e00f9ad801a478d49",
+    "name": "Anti Alliance Core",
+    "symbol": "ALLCORE"
+  }, {
+    "id": "0xea2dc0868507788b865f9d96cc52a60b9d24adb4",
+    "name": "yearnBright.Finance",
+    "symbol": "YBFI"
+  }, {
+    "id": "0xea2fc92dd5647a238ba37771fbcc1b1e2199ca4c",
+    "name": "Yearn Finance Farming",
+    "symbol": "YFIFarm"
+  }, {
+    "id": "0xea319e87cf06203dae107dd8e5672175e3ee976c",
+    "name": "SURF.Finance",
+    "symbol": "SURF"
+  }, {
+    "id": "0xea34b41710867e83034d386fe18a69b97d1cb85b",
+    "name": "Uniswap.gg",
+    "symbol": "UNIG"
+  }, {
+    "id": "0xea34d9fb3abff76fd84d48a8fe0b4f68e1572c04",
+    "name": "OHMIC Standard",
+    "symbol": "OHMIC"
+  }, {
+    "id": "0xea3ba3ec648bb466d6af14e2c6aaf6bc80493e85",
+    "name": "Versatile",
+    "symbol": "VRS"
+  }, {
+    "id": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+    "name": "Nobrainer.Finance",
+    "symbol": "BRAIN"
+  }, {
+    "id": "0xea405356c0b816702719e3c98f358bfd62b37609",
+    "name": "TRON",
+    "symbol": "TRX"
+  }, {
+    "id": "0xea42f6c7e72a42bcce0f5a0f917fc81bbd7fcf22",
+    "name": "cca.finance",
+    "symbol": "CCA"
+  }, {
+    "id": "0xea481089e0f3298dd8d78befff67c6143586a70b",
+    "name": "DAFi",
+    "symbol": "DAFi"
+  }, {
+    "id": "0xea499be64bceda079e430f7e3d14a8dba46b81f2",
+    "name": "OSX token ",
+    "symbol": "OSX"
+  }, {
+    "id": "0xea4addb4e9d1d1d645940e49aca202a261e4dc16",
+    "name": "YIELD",
+    "symbol": "YLD"
+  }, {
+    "id": "0xea4b1b069b1cb9eae79c67938adc71b80edb23b0",
+    "name": "DegenerateToken",
+    "symbol": "DGNT"
+  }, {
+    "id": "0xea52d0d5659d6c897068c8eb9bdeeb1fe1d44cf6",
+    "name": "ceshi",
+    "symbol": "CS"
+  }, {
+    "id": "0xea5d44f41c62483d72de416d7aceb670fbf6fd3a",
+    "name": "Blackhole Swap Token",
+    "symbol": "BHST"
+  }, {
+    "id": "0xea5eab01e6f70558c3fefd12218a6b3f801da5d7",
+    "name": "mixi.network",
+    "symbol": "MIXI"
+  }, {
+    "id": "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
+    "name": "Pareto Network Token",
+    "symbol": "PARETO"
+  }, {
+    "id": "0xea610b1153477720748dc13ed378003941d84fab",
+    "name": "AlisToken",
+    "symbol": "ALIS"
+  }, {
+    "id": "0xea681c280bfd93a18bafb755b9fe7c51f8acdd41",
+    "name": "rCore.Finance",
+    "symbol": "RCORE"
+  }, {
+    "id": "0xea68a51d3bb0ebf9daba0254ab62d5529e055d01",
+    "name": "AFFS",
+    "symbol": "AFFS"
+  }, {
+    "id": "0xea693e07d1371d830538999d4110c77ea8a4d5ab",
+    "name": "t.me/investforyourfuture1",
+    "symbol": "IFYF"
+  }, {
+    "id": "0xea6c7b24d1cb28b05f1c68c5e54014fdd0c0cc10",
+    "name": "DGNX.Finance",
+    "symbol": "DGNX"
+  }, {
+    "id": "0xea6cd6e66e90dd24a4a202b525409fd6ac590872",
+    "name": "MOON BOY TOKEN",
+    "symbol": "MBT"
+  }, {
+    "id": "0xea6dd45d244a83fdad23f6270844ce8b93c97a76",
+    "name": "gMAK Crypto",
+    "symbol": "gMAK"
+  }, {
+    "id": "0xea78c33f89e4f8c050ae70468115966d20c53b06",
+    "name": "YFI.finance",
+    "symbol": "YFI"
+  }, {
+    "id": "0xea7a49583c897676adbb8979c05cba851e6d7742",
+    "name": "MFFFINANCE",
+    "symbol": "MFF"
+  }, {
+    "id": "0xea81b3403762bc4b6860b4f262e9fb1c51317542",
+    "name": "Triiad",
+    "symbol": "TRII"
+  }, {
+    "id": "0xea8359230211b17e4b1e1f8c6e5a43da9fabebf2",
+    "name": "Fainin",
+    "symbol": "FAIN"
+  }, {
+    "id": "0xea87671cd86c1ed12f86603373eabc5b8e95e342",
+    "name": "Energy Stone",
+    "symbol": "STONE"
+  }, {
+    "id": "0xea896321083b2fe2225a02d9cf75cbc41b47c9e5",
+    "name": "SAMPLL.eth.link",
+    "symbol": "SAMPLL"
+  }, {
+    "id": "0xea89b8172c999c36685cbc6c2f2becd7514a0e9d",
+    "name": "CoreBit",
+    "symbol": "CBTC"
+  }, {
+    "id": "0xea89d99518d2759a4d66a24c3f5da57b203e3ad3",
+    "name": "TYF finance",
+    "symbol": "TYF"
+  }, {
+    "id": "0xea89da6ec1aa4285fd68f65adf1dd56bac825335",
+    "name": "conflux.finance",
+    "symbol": "CFX"
+  }, {
+    "id": "0xea8b050801cd3acf873289812867e6fdf74fd9bd",
+    "name": "Gene.finance",
+    "symbol": "GENE"
+  }, {
+    "id": "0xea8b707dca2ec65d8183a4679186bb9ba13669e6",
+    "name": "t.me/degenAPEpumpCHADburn",
+    "symbol": "degenAPEpumpCHADburn"
+  }, {
+    "id": "0xea8c4fc8d9bf10bca7b2bc7d12a33b7616cae8c3",
+    "name": "ibc",
+    "symbol": "IBC"
+  }, {
+    "id": "0xea8e62ba5cb9e7ad8505df7cacd3ef17f8ebaad7",
+    "name": "Betelgeuse.Finance",
+    "symbol": "BETEL"
+  }, {
+    "id": "0xea8ec3ee11e6729e7abe933c9af5aae22563fce1",
+    "name": "AskMeAnything",
+    "symbol": "AMA"
+  }, {
+    "id": "0xea95a89e97b4f1585e105ef9ddcaff8353584020",
+    "name": "UniCorn",
+    "symbol": "UNIC"
+  }, {
+    "id": "0xea97b1f8f69817200c0cd7acd0ff39fbb1040baa",
+    "name": "DODO",
+    "symbol": "DODO"
+  }, {
+    "id": "0xea9a7a58aff1a01e654a489440af33c79aa10dda",
+    "name": "Original W2",
+    "symbol": "OGW2"
+  }, {
+    "id": "0xea9dce8b246be27cb1ec1ac9f459de284e747300",
+    "name": "YFValue.Finance",
+    "symbol": "YFVF"
+  }, {
+    "id": "0xeaa51c02effb975436e8b694629a4cb2b5f03254",
+    "name": "WICKED",
+    "symbol": "WKD"
+  }, {
+    "id": "0xeaa64db37d2a238cd4e417c2120a7de270b7f55d",
+    "name": "HMK",
+    "symbol": "HMK"
+  }, {
+    "id": "0xeaa70bfdbe3d4d4efac6fcee0d366e3c2e722c86",
+    "name": "Ultra Low",
+    "symbol": "LOW"
+  }, {
+    "id": "0xeaa8fa386ef33fc7b86432eea2a0172717c4713a",
+    "name": "AA",
+    "symbol": "BB"
+  }, {
+    "id": "0xeaafe85be545636ad77e04c468271e4ad8e8b2f8",
+    "name": "Cocaine",
+    "symbol": "COKE"
+  }, {
+    "id": "0xeab2786de4343bb8eb6cd1a865ed296b1a8f76b0",
+    "name": "OxCrypto",
+    "symbol": "OXC"
+  }, {
+    "id": "0xeabb8996ea1662cad2f7fb715127852cd3262ae9",
+    "name": "Connect Financial",
+    "symbol": "CNFI"
+  }, {
+    "id": "0xeabd9bf9b80e0413f63415c1ea909ce473cdf317",
+    "name": "Swap and Staking ETH - ETH2",
+    "symbol": "ETH2"
+  }, {
+    "id": "0xeabff7e19c857f50a1bc98367f950e77ec00aa3b",
+    "name": "BOBO",
+    "symbol": "BOBO"
+  }, {
+    "id": "0xeac472cc67e2b06e9843502c1d2973237ca1c35b",
+    "name": "VVFI.Finance",
+    "symbol": "VVFI"
+  }, {
+    "id": "0xeac51cc045e9e374d716a8605e57e3459128e61f",
+    "name": "Advanced Token",
+    "symbol": "ADV"
+  }, {
+    "id": "0xeac5f5ab6458727015fb34917b246543b34d3236",
+    "name": "lnfinity Gainz Best Group",
+    "symbol": "IGBG"
+  }, {
+    "id": "0xeac6b0f2b83fc63908912ffde2bf1060577fd575",
+    "name": "ANTIBOT",
+    "symbol": "ABOT"
+  }, {
+    "id": "0xeacaa2a5dbcf4ce4d00ea955da66db6d4f20db88",
+    "name": "RecycleToken",
+    "symbol": "REC"
+  }, {
+    "id": "0xeaccb6e0f24d66cf4aa6cbda33971b9231d332a1",
+    "name": "Polyient Games Governance Token",
+    "symbol": "PGT"
+  }, {
+    "id": "0xead0f764a702b517d6bfb9ff8543b8c16d04a12e",
+    "name": "XAB.finance",
+    "symbol": "XAB"
+  }, {
+    "id": "0xead4284bc9b0f9c2c7e5235823b078830d7a59b9",
+    "name": "Whitecoin",
+    "symbol": "XWC"
+  }, {
+    "id": "0xead79f852cc18bf3292ecceff2cc4136c41e1986",
+    "name": "herdius",
+    "symbol": "HER"
+  }, {
+    "id": "0xead946c0e43023b64bfd0098286076dbb2a3e9b7",
+    "name": "CM.finance",
+    "symbol": "CMT"
+  }, {
+    "id": "0xeadc218ac4cb7895a5a56e6484646b48f841c45a",
+    "name": "MFI_ERC20",
+    "symbol": "MFI"
+  }, {
+    "id": "0xeae0b10b2cc955563ff99374c2beb726ac4407ce",
+    "name": "Cthulhu Coin",
+    "symbol": "CTHU"
+  }, {
+    "id": "0xeae25fa9d99897e9d748dfbc36e073f131f79c19",
+    "name": "11:11 Coin",
+    "symbol": "11:11"
+  }, {
+    "id": "0xeae3ff28db6e586a04cce125870620409a85819f",
+    "name": "Yearn.Finance V2",
+    "symbol": "YEARNv2"
+  }, {
+    "id": "0xeae6ec0fc598d3d78baa8b13e5b04a84a3abd98d",
+    "name": "RRIA",
+    "symbol": "RRIA"
+  }, {
+    "id": "0xeaf28dc83537cd526f703ee7157a55beac9e073f",
+    "name": "Trust Community network",
+    "symbol": "TCN"
+  }, {
+    "id": "0xeaf355280545b7435a86af27ef98c1dbe03cda5e",
+    "name": "sceneryCion",
+    "symbol": "SYC"
+  }, {
+    "id": "0xeaf3c6d0ebf9be41814c0e9e00fab4df92f96733",
+    "name": "BetHero.io",
+    "symbol": "HERO"
+  }, {
+    "id": "0xeafaaf06676d68373b371a091624421b9d95548d",
+    "name": "OFF-GREEN",
+    "symbol": "grn"
+  }, {
+    "id": "0xeafaf0ae730711a1da037636106c08571bffefe3",
+    "name": "AMM",
+    "symbol": "AMM"
+  }, {
+    "id": "0xeafca7129cb7510c14fbc9e6d57d80b778fa4353",
+    "name": "NYAN-CAT https://meme-poggers.com",
+    "symbol": "NYAN!"
+  }, {
+    "id": "0xeafd7650b14fb51eec92cd47c351081eee45b705",
+    "name": "cVault.finance",
+    "symbol": "COREII"
+  }, {
+    "id": "0xeafe60f085cf2012cf29553a58ea947d67bfbdde",
+    "name": "Plasm Network",
+    "symbol": "PLASM"
+  }, {
+    "id": "0xeafed0f973fe4cdae26e18fd1c124f0bda79fa6c",
+    "name": "Caesar.finance",
+    "symbol": "CAESAR"
+  }, {
+    "id": "0xeb0120f061b84ee72230c5a7b8f647adf846307a",
+    "name": "SAV8",
+    "symbol": "SAV8"
+  }, {
+    "id": "0xeb02345d4540d9607f2da8a0235da7a75715e242",
+    "name": "yEARN UNI",
+    "symbol": "yUNI"
+  }, {
+    "id": "0xeb05aa5d9aa6ea4858b8ea63926cb2ec4c94bd8d",
+    "name": "Epic Protocol",
+    "symbol": "EPP"
+  }, {
+    "id": "0xeb06fdf228e05da02bc2cb0bd56f6f63781fb3df",
+    "name": "POLS(polkastarter)",
+    "symbol": "POLS"
+  }, {
+    "id": "0xeb10339559be159a88b1a3844a2b3f8c81edd961",
+    "name": "windowscoin ",
+    "symbol": "WDC"
+  }, {
+    "id": "0xeb1046fe6b05a24f373a123db281a405f1917a7a",
+    "name": "satoshi",
+    "symbol": "SAT"
+  }, {
+    "id": "0xeb17417c751e989d3cac087bbf361a4c7fa7dfa6",
+    "name": "DeFiLINK",
+    "symbol": "DLINK"
+  }, {
+    "id": "0xeb191a4168309e122cf6d4841ae6ec765317bcc4",
+    "name": "Darth Vader",
+    "symbol": "VADR"
+  }, {
+    "id": "0xeb1c63cc494970981a6e3367e6b6c6f6f9879d7d",
+    "name": "Deriswap",
+    "symbol": "DERISWAP"
+  }, {
+    "id": "0xeb1e4bfe910facafd7773131a6dfa9aed05878ff",
+    "name": "Yfuni.Finance",
+    "symbol": "YFUNI"
+  }, {
+    "id": "0xeb1e8ced2a20305e5c03e0bd89d9c6135f98eec3",
+    "name": "ForkFinance",
+    "symbol": "FRK"
+  }, {
+    "id": "0xeb1ff9f141925b455f912471aeccba682cb2640a",
+    "name": "Swapzone.io",
+    "symbol": "SWAPZ"
+  }, {
+    "id": "0xeb2468c98d5b33eba50cfffd1e64a95faadd30ec",
+    "name": "Enreach",
+    "symbol": "NRCH"
+  }, {
+    "id": "0xeb25e5c84f5352904122569996eeb191fa064cd7",
+    "name": "Lsd.finance",
+    "symbol": "TABS"
+  }, {
+    "id": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+    "name": "dForce",
+    "symbol": "USDx"
+  }, {
+    "id": "0xeb28f288813d9b9fff0123c6b51b94c1cc70ce48",
+    "name": "Chive Finance",
+    "symbol": "CHIVE"
+  }, {
+    "id": "0xeb29f15ee4121c029bff6c5418ef19091ff2cb68",
+    "name": "YSC",
+    "symbol": "ysc.suit.faction"
+  }, {
+    "id": "0xeb2c0e11af20fb1c41c6e7abe5ad214e48738514",
+    "name": "Sinelock",
+    "symbol": "SINE"
+  }, {
+    "id": "0xeb2c9021e1c79d267b632b576e0b81afedb17a9b",
+    "name": "Uniswap   X",
+    "symbol": "UNIX"
+  }, {
+    "id": "0xeb2f5ec2dcef6efc53935015f1cf367e32edcb5d",
+    "name": "PARAMORE",
+    "symbol": "PARA"
+  }, {
+    "id": "0xeb33078570118348fa72a189e3040aaaea326c54",
+    "name": "BT.Finance",
+    "symbol": "BTF"
+  }, {
+    "id": "0xeb34b89f34a39799a1add180d4ef88aa1b33737b",
+    "name": "WallStreet.Finance",
+    "symbol": "WSF"
+  }, {
+    "id": "0xeb42b15d7623c7569661fbcf3a4b5f3cfd00fcdd",
+    "name": "RootKit",
+    "symbol": "ROOT"
+  }, {
+    "id": "0xeb4bcb70cf2f297f09654c03c247ea23796c42fb",
+    "name": "UNN FINANCE",
+    "symbol": "UNN"
+  }, {
+    "id": "0xeb4c063f68bf4c4e807f89ae6e1f5f153a0e9006",
+    "name": "beans.farm",
+    "symbol": "BEAN"
+  }, {
+    "id": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+    "name": "renBTC",
+    "symbol": "renBTC"
+  }, {
+    "id": "0xeb4ccc08c7fe01abd31bcc162abdd2bd8ad64c13",
+    "name": "Darth Vader",
+    "symbol": "VADR"
+  }, {
+    "id": "0xeb4d1186dcfd68f8142981e804968e9799eac435",
+    "name": "RugProof",
+    "symbol": "RPT"
+  }, {
+    "id": "0xeb4e33dd1d97407add2afcdcd5dd17851b1695d0",
+    "name": "Ruze Finance",
+    "symbol": "RUZE"
+  }, {
+    "id": "0xeb4f04007b5f92648547a41b61495c65b77a41d5",
+    "name": "POT Finance",
+    "symbol": "POT"
+  }, {
+    "id": "0xeb4f2aaea6524d407f14e3a55589f2d9e8003bdc",
+    "name": "APY.finance",
+    "symbol": "APY"
+  }, {
+    "id": "0xeb547ed1d8a3ff1461abaa7f0022fed4836e00a4",
+    "name": "Coinvest COIN V3 Token",
+    "symbol": "COIN"
+  }, {
+    "id": "0xeb54bfdf44d143acd99be3b1dcb82f3f247a18f1",
+    "name": "ROM-DAO",
+    "symbol": "RDAO"
+  }, {
+    "id": "0xeb57dfc823b7fdd993b0bdd437f81406291ddd73",
+    "name": "APE CASINO COIN",
+    "symbol": "APECASINO"
+  }, {
+    "id": "0xeb5873ae9ecb74a94fc88eeca67b6791ab25667c",
+    "name": "BART",
+    "symbol": "BART"
+  }, {
+    "id": "0xeb5986fafbc3cbe9901a5fb884f902d35badf2d3",
+    "name": "LinkBased",
+    "symbol": "LBD"
+  }, {
+    "id": "0xeb5e669dee1516b6225b9c99c161232fd46778e1",
+    "name": "YYII.Finance",
+    "symbol": "YYII"
+  }, {
+    "id": "0xeb5f03df0ae860c2f8233b792a2ff3c2b774b3a4",
+    "name": "upump.finance",
+    "symbol": "UPUMP"
+  }, {
+    "id": "0xeb5f858dc8657f0e455f472d3f41394eaf9e0729",
+    "name": "ANTIRAKE",
+    "symbol": "ANTIRAKE"
+  }, {
+    "id": "0xeb60d429e02928e494516ce0a81f185ef52f20d4",
+    "name": "Simple Yearn Finance",
+    "symbol": "SYF"
+  }, {
+    "id": "0xeb61e3077822705c2e0165892e68184b36cf8272",
+    "name": "Litecoin prediction",
+    "symbol": "LTCP"
+  }, {
+    "id": "0xeb64959ca598f14f5822c79eec5180da03c94ad5",
+    "name": "Spectre Chain",
+    "symbol": "DARK"
+  }, {
+    "id": "0xeb6a9769a43a80147b2a59052f3004c34ab147ba",
+    "name": "BETTING 4 FUEL",
+    "symbol": "BET4"
+  }, {
+    "id": "0xeb72cdbb0cb419ac4072d685b9b83665659b6fd6",
+    "name": "Eminence v2.0",
+    "symbol": "EMNv2"
+  }, {
+    "id": "0xeb7355c2f217b3485a591332fe13c8c5a76a581d",
+    "name": "Jubi Token",
+    "symbol": "JT"
+  }, {
+    "id": "0xeb74a76daacba26dc7a1088c9f53e912835d6639",
+    "name": "NOVA DEFI",
+    "symbol": "NOV"
+  }, {
+    "id": "0xeb76898373288745b599172d0e34279c58343840",
+    "name": "Privacy Coin",
+    "symbol": "PRIVACY"
+  }, {
+    "id": "0xeb79b9d30f2aefdb13a49ae46c4cb27b5185d980",
+    "name": "WPON",
+    "symbol": "WPN"
+  }, {
+    "id": "0xeb7ccf5e1f166aefc57f521a5870a90487ea3c77",
+    "name": "Antitendies",
+    "symbol": "XTEND"
+  }, {
+    "id": "0xeb7e037140c1e2815f892830721778131be0b0df",
+    "name": "WCDS",
+    "symbol": "WCDS"
+  }, {
+    "id": "0xeb7e51b07a2fa5072f7c205a754ccab94dae0e35",
+    "name": "Tezt.io",
+    "symbol": "TZT"
+  }, {
+    "id": "0xeb84360bfdc82c25935f87fd08442fbdb0c41b5d",
+    "name": "Yum.Yield.Finance",
+    "symbol": "YYF"
+  }, {
+    "id": "0xeb84f1a73c3dce1765bcd2fbdf5dbcb558b11d5c",
+    "name": "Operation Bot Fuck",
+    "symbol": "LUBED"
+  }, {
+    "id": "0xeb85a7b3fed933ec3b4599f1b4f8f3f838d0bedf",
+    "name": "Almace Shards",
+    "symbol": "ALMX"
+  }, {
+    "id": "0xeb888a2ae60ac083dc80905c19f85f901fc93f17",
+    "name": "GLHF",
+    "symbol": "GLHF"
+  }, {
+    "id": "0xeb8afdfe7a3c24faee58e6d3670f992c82ab2efd",
+    "name": "SPARK",
+    "symbol": "SPRK"
+  }, {
+    "id": "0xeb8ccf0e38711ff3f2a913c5bcc1cb7a021d2553",
+    "name": "Tired of REKT!",
+    "symbol": "REKT"
+  }, {
+    "id": "0xeb8e4a54848057e0782ad777151a68796b6cf6b7",
+    "name": "fuckYou EMN",
+    "symbol": "yEMN"
+  }, {
+    "id": "0xeb97ebd4034d829e788f8777b4513f01bcb77b47",
+    "name": "HOT.TOKEN",
+    "symbol": "HOT"
+  }, {
+    "id": "0xeb97eeb2a22da42d40de4519d6cb71d1afa0ce41",
+    "name": "OneChad.network",
+    "symbol": "1Chad"
+  }, {
+    "id": "0xeb98baf2e1654ab5eeed9cdba9dcf51c74de9461",
+    "name": "5pk.com",
+    "symbol": "5PK"
+  }, {
+    "id": "0xeb9951021698b42e4399f9cbb6267aa35f82d59d",
+    "name": "unknown",
+    "symbol": "unknown"
+  }, {
+    "id": "0xeb9ca345f773a88437742c4527ccf0f691191cd0",
+    "name": "LIF3.finance",
+    "symbol": "LIF3"
+  }, {
+    "id": "0xeb9e5dd58f56e251d9124ef3596933b964520ab9",
+    "name": "STACY LGE",
+    "symbol": "STACY"
+  }, {
+    "id": "0xeba1b95ac453291ae3156fa183b1460cff1905f2",
+    "name": "COUMPOUND",
+    "symbol": "Comp"
+  }, {
+    "id": "0xebb11e87f4eaec95b8d29188e21fe0bb9f373aee",
+    "name": "attrace.com",
+    "symbol": "ATT"
+  }, {
+    "id": "0xebb4efeb1980fd071dbe16eeaedf14a3cd4d1118",
+    "name": "Bully.finance",
+    "symbol": "BULLY"
+  }, {
+    "id": "0xebba0f9bd8994831aeffd801a796ed9b7527108b",
+    "name": "DSWAP",
+    "symbol": "DSwapV1"
+  }, {
+    "id": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc",
+    "name": "Hydro",
+    "symbol": "HYDRO"
+  }, {
+    "id": "0xebc694841a3f162a3d93231fb19ec106e2571ac3",
+    "name": "Stackapp",
+    "symbol": "STACK"
+  }, {
+    "id": "0xebca0dbedaeabbe386ba7594de52e402ba2fca1d",
+    "name": "cVault finance CORE",
+    "symbol": "CORE"
+  }, {
+    "id": "0xebcfd2f961a912009c4cb5e50e2c3856e0d94915",
+    "name": "NextFinance",
+    "symbol": "NTF"
+  }, {
+    "id": "0xebd04f04f260f5032ec09d7fd29df3bf31f7acd4",
+    "name": "SPHERA",
+    "symbol": "SPHE"
+  }, {
+    "id": "0xebd6439a1b874c754558a41885c83c8af3120b1a",
+    "name": "UNIPOWER",
+    "symbol": "unipower"
+  }, {
+    "id": "0xebd888168161d67b2e35051c063de0212d05436a",
+    "name": "Keep3r STAKE",
+    "symbol": "KP3RS"
+  }, {
+    "id": "0xebddcdbd686769f72db2822f89061f780483229f",
+    "name": "cVault.finance v2.0",
+    "symbol": "CORE2"
+  }, {
+    "id": "0xebe534c54a2ae65d5bedd5872824c2a5af855bb0",
+    "name": "USTP",
+    "symbol": "USTP"
+  }, {
+    "id": "0xebea5b66a9d2b984c0ffffb6180ac02debd27cc3",
+    "name": "YoWo.Finance",
+    "symbol": "YWF"
+  }, {
+    "id": "0xebf4ca5319f406602eeff68da16261f1216011b5",
+    "name": "Yo Token",
+    "symbol": "YOT"
+  }, {
+    "id": "0xebf698ede71af52ab1acb12975472ba2e302e810",
+    "name": "FerrariToken",
+    "symbol": "Ferrari"
+  }, {
+    "id": "0xebf919584021075d3f7bf3d6cf1c6dc318221eff",
+    "name": "MEET.ONE",
+    "symbol": "MEFI"
+  }, {
+    "id": "0xebfb28a3495516f1932bbf1f7f50350b582cfc29",
+    "name": "bonded.finance",
+    "symbol": "BOND"
+  }, {
+    "id": "0xebff64ecd8a23243b8fb8f55d1ffca972d87ceca",
+    "name": "Thor Coin",
+    "symbol": "TRC"
+  }, {
+    "id": "0xebff9f54e65a90f6f5e743a1d0826dd7ffc390ef",
+    "name": "mzw.io",
+    "symbol": "MZW"
+  }, {
+    "id": "0xec00e100fd2d9f076512d1a1e3871a8a9ee54302",
+    "name": "YFIZ",
+    "symbol": "YFIZ"
+  }, {
+    "id": "0xec02cec4edd54196d2767b61f43b29a49b056fe6",
+    "name": "Unifier",
+    "symbol": "UNIF"
+  }, {
+    "id": "0xec06000631d8dd6c2c4a36f102c1711772c07eb0",
+    "name": "CCTrade",
+    "symbol": "CCT"
+  }, {
+    "id": "0xec07857510aa7dde3abca3c369058815d6318d75",
+    "name": "Core Relaunch",
+    "symbol": "CORER"
+  }, {
+    "id": "0xec0913df65eab3ff850cc33a39aa3aeb97cc5617",
+    "name": "WAFFLESWAP.ORG",
+    "symbol": "WAFFLE"
+  }, {
+    "id": "0xec0a0915a7c3443862b678b0d4721c7ab133fdcf",
+    "name": "Wrapped Origin Axie",
+    "symbol": "WOA"
+  }, {
+    "id": "0xec0c59c60cf56664f9460d43214b747632ccc202",
+    "name": "FYA.Finance",
+    "symbol": "FYA"
+  }, {
+    "id": "0xec0f2af84f677b97384211fe73cf835b0bb6d4b5",
+    "name": "Yuppy",
+    "symbol": "YUP"
+  }, {
+    "id": "0xec135c435ce79c13a2f5f7d41552c23e6983d90d",
+    "name": "rebuild.finance",
+    "symbol": "rebz"
+  }, {
+    "id": "0xec13f3c54feebfb0601934c9ff70a61ba8a8ed8f",
+    "name": "UniCat.farm",
+    "symbol": "MEOW"
+  }, {
+    "id": "0xec1452a0c656a17a0ac4e5646670afe819fd5256",
+    "name": "Crypto Million Lotto",
+    "symbol": "CML"
+  }, {
+    "id": "0xec155f22fb87abd0c640849ceb0faf7fdd9a31cd",
+    "name": "Antiample v2",
+    "symbol": "XAMP2"
+  }, {
+    "id": "0xec161250e9a6c29f65dded7a2ecefaaae4742209",
+    "name": "1inch network token",
+    "symbol": "1INCH"
+  }, {
+    "id": "0xec173c708c071382662be462f8d4ec87e2d73620",
+    "name": "DAOSWAP",
+    "symbol": "DVS"
+  }, {
+    "id": "0xec1b7664f6275f5dcbbceb5abf1b43da22b59f33",
+    "name": "CRTFinance",
+    "symbol": "CRT"
+  }, {
+    "id": "0xec213f83defb583af3a000b1c0ada660b1902a0f",
+    "name": "Presearch",
+    "symbol": "PRE"
+  }, {
+    "id": "0xec245f522b03b06847f5de82e7f05516fa3e4540",
+    "name": "ttt",
+    "symbol": "ttt"
+  }, {
+    "id": "0xec2d692f902b3f289aa9d644602986a0df1af687",
+    "name": "AVNRich Token",
+    "symbol": "AVN"
+  }, {
+    "id": "0xec2da8db094cc7c510f8a839b6b9c4747506a2bf",
+    "name": "Wise Token",
+    "symbol": "WISE"
+  }, {
+    "id": "0xec31dc142475d17f62b5a72d927a37b6237fd52a",
+    "name": "HEXPrime",
+    "symbol": "PRIME"
+  }, {
+    "id": "0xec32c53805d7edc44383fc22ca2fd20af1dd2632",
+    "name": "WGD",
+    "symbol": "WGD"
+  }, {
+    "id": "0xec333719f8729d7d9177eff38016c5b0bb7f4f11",
+    "name": "YFM.finance",
+    "symbol": "YFM"
+  }, {
+    "id": "0xec3436007fee832a2cfeea2dea48f028ff8313a8",
+    "name": "Galaxy Token",
+    "symbol": "GLXT"
+  }, {
+    "id": "0xec351c430e29aaf50484a117c4247ce0ac2907f2",
+    "name": "DeFiner.org",
+    "symbol": ""
+  }, {
+    "id": "0xec369c2b322c2c67662716db47b665cdca3d521e",
+    "name": "hypechill.fund",
+    "symbol": "CHILL"
+  }, {
+    "id": "0xec3846ae2d39396f0f756baaba63c7770add22c6",
+    "name": "pls do not buy",
+    "symbol": "PLSNO"
+  }, {
+    "id": "0xec3a0f7322d7a9ded5f058dbc0d7fbcfd0dab675",
+    "name": "Plutus DeFi Presale Token",
+    "symbol": "PLU"
+  }, {
+    "id": "0xec3dc3fd8e1c9b8a3c7e8d84e33872a912c3494b",
+    "name": "SakeSwap.Finance",
+    "symbol": "SAKE"
+  }, {
+    "id": "0xec45e2a65daaa52d68b573e6914537da7323c27d",
+    "name": "Firdaos",
+    "symbol": "FDO"
+  }, {
+    "id": "0xec49e0b4a08406d903635ba55c6e9c09adfa0b5f",
+    "name": "Haw.Finance Token",
+    "symbol": "HAW"
+  }, {
+    "id": "0xec4c01d55b3ca5a82822f364a0482745d845b493",
+    "name": "Property Invest",
+    "symbol": "PIX"
+  }, {
+    "id": "0xec4fdb58d2fa1a8bd80efb112e2a8e64967360f5",
+    "name": "riseCORE",
+    "symbol": "RICORE"
+  }, {
+    "id": "0xec509dd53acc73fad19738fd9fa61adf6248c53b",
+    "name": "spartan.casino",
+    "symbol": "IRON"
+  }, {
+    "id": "0xec55e75fb559002cf7c50df4d893dfd40b93c06b",
+    "name": "Wrapped Polkadot",
+    "symbol": "WDOT"
+  }, {
+    "id": "0xec5c839280398d179b0319cfc277ed35d9d0e91e",
+    "name": "BONE",
+    "symbol": "BONE"
+  }, {
+    "id": "0xec5ee81f1d7d25d8e1f1ace65f4c6249f133bbc3",
+    "name": "Dapp Staking Token",
+    "symbol": "DSTX"
+  }, {
+    "id": "0xec6227d42256db293b5fcb13f0e2e309a4016bd3",
+    "name": "Lemon Finance",
+    "symbol": "LFI"
+  }, {
+    "id": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "name": "Melon Token",
+    "symbol": "MLN"
+  }, {
+    "id": "0xec6797db5025f51f4439629be326fac355e25e2a",
+    "name": "Oracle",
+    "symbol": "Oracle"
+  }, {
+    "id": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+    "name": "YVS.Finance",
+    "symbol": "YVS"
+  }, {
+    "id": "0xec6c782891c351794b2210e3f9523b39f3606bf7",
+    "name": "YF3L Farming Finance",
+    "symbol": "YF3L"
+  }, {
+    "id": "0xec7059bb0fda4c3e2ae1f2ea706388097e0e3a14",
+    "name": "CNDAO.FINANCE",
+    "symbol": "CNDAO"
+  }, {
+    "id": "0xec758697b6ea8eb1e932d6d37e594fc1cd813cde",
+    "name": "ERIA",
+    "symbol": "ERIA"
+  }, {
+    "id": "0xec770cdf8d8838ce03cc3c89f0aa3079324be591",
+    "name": "BURN50",
+    "symbol": "BURN50"
+  }, {
+    "id": "0xec79952e26e6d3afa1edb9a7b49235cd1e2e5275",
+    "name": "cVault.finance",
+    "symbol": "CORESS"
+  }, {
+    "id": "0xec79ad3c583ed73135ec5f067723a05775815004",
+    "name": "keepyf.finance",
+    "symbol": "KPF"
+  }, {
+    "id": "0xec7d3e835da3f6118079fa9a236b267d044fd7ca",
+    "name": "CryptoRewards",
+    "symbol": "CRS"
+  }, {
+    "id": "0xec84bd72d5f0deaeda6d1ff00585f3131a4aa001",
+    "name": "Inverse.Finance",
+    "symbol": "INV"
+  }, {
+    "id": "0xec8998b8a13c4baaf759e8a35b9b2beebc00820b",
+    "name": "BOBO.finance Token",
+    "symbol": "BOBO"
+  }, {
+    "id": "0xec8b40de9d9272350a5342d842c42bd147a28706",
+    "name": "YFINANCE SPORTS",
+    "symbol": "YFSp"
+  }, {
+    "id": "0xec8e246e25ce6036b65e3bf2bdf42041f454f610",
+    "name": "test4",
+    "symbol": "TEST4"
+  }, {
+    "id": "0xec94301012dd25b923441419643a93b7f42652b6",
+    "name": "counterstrike.finance",
+    "symbol": "CS"
+  }, {
+    "id": "0xec94494ae2132f2f2470a9e017f5c03600318069",
+    "name": "BlackDiamond SC",
+    "symbol": "BSC"
+  }, {
+    "id": "0xec99e4d47d748576388bbfc114ff4575adc46a40",
+    "name": "Dokidoki.finance",
+    "symbol": "DOKI"
+  }, {
+    "id": "0xec9fe7df2e85dfb76c40609e56a07df46df34817",
+    "name": "venus.io",
+    "symbol": "VXS"
+  }, {
+    "id": "0xeca0966bc34f4e930f4e2c28333963af98c55bd2",
+    "name": "Upbots.net Token",
+    "symbol": "UBXT"
+  }, {
+    "id": "0xeca0e47d704872fb813582cdae870f5b3b154527",
+    "name": "boobs.finance",
+    "symbol": "BOOBS"
+  }, {
+    "id": "0xeca1c0153e7a788726e14a0d0cb910a4d00a91fc",
+    "name": "kush.finance",
+    "symbol": "KSEED"
+  }, {
+    "id": "0xeca82185adce47f39c684352b0439f030f860318",
+    "name": "Perlin",
+    "symbol": "PERL"
+  }, {
+    "id": "0xecab27f5cce92b099251c32b3a5f4be7ad1df384",
+    "name": "Hold3rV1",
+    "symbol": "HD3R"
+  }, {
+    "id": "0xecacac63abba9af8c2630eef7697330c6a401d16",
+    "name": "MILK.Finance",
+    "symbol": "MILK"
+  }, {
+    "id": "0xecae0a4c9b23e9a2dbce3c77378ce015596f3802",
+    "name": "pbgswap.com",
+    "symbol": "PubgSwap"
+  }, {
+    "id": "0xecb460d1994b1c1716656595e25e1271433b1727",
+    "name": "TenHourRugTelegram",
+    "symbol": "TENH"
+  }, {
+    "id": "0xecb6cda7006f834d72ff3af9b97b6aca259cfe2c",
+    "name": "rocketswp.finance",
+    "symbol": "YRCKT"
+  }, {
+    "id": "0xecb7dcd195c56cf551b9c48b09c9b47a9943b28c",
+    "name": "Rebased @ Rebased.Fi",
+    "symbol": "REB"
+  }, {
+    "id": "0xecb8e31ae04bede49cd4fa315e8402492e9073fb",
+    "name": "BATI",
+    "symbol": "BTI"
+  }, {
+    "id": "0xecb91f52da627c86dd84db5cba6f0ab517bd9e85",
+    "name": "DefPlutus",
+    "symbol": "PLT"
+  }, {
+    "id": "0xecb99a2d628310d96bb4b5f3a5e16bd38ab8b04e",
+    "name": "rugpull.swap",
+    "symbol": "RUG"
+  }, {
+    "id": "0xecb9c8392b988d293aecabb552532cf26f6e8447",
+    "name": "DragonBurn",
+    "symbol": "DRGB"
+  }, {
+    "id": "0xecbc624bebc96fcae982f417dd1ac12b38b52c51",
+    "name": "API Syntax Chain",
+    "symbol": "APIc"
+  }, {
+    "id": "0xecbcc9a826254ede5a39fa0c9699abfa46056e22",
+    "name": "Bidencoin",
+    "symbol": "BIDN"
+  }, {
+    "id": "0xecbd7219c210cee9184e33ff76a4671c74024720",
+    "name": "DeFi Low Caps",
+    "symbol": "XTF.SWCSH2"
+  }, {
+    "id": "0xecbee8013ae8c0e621e11532d26bb636bf2b7675",
+    "name": "Sergey Saved Link",
+    "symbol": "SERGS"
+  }, {
+    "id": "0xecbf566944250dde88322581024e611419715f7a",
+    "name": "xBTC",
+    "symbol": "xBTC"
+  }, {
+    "id": "0xecc0757f2527d9dc8f29453060e90d201110cdf6",
+    "name": "UniHEX",
+    "symbol": "UNIHEX"
+  }, {
+    "id": "0xecc0f1f860a82ab3b442382d93853c02d6384389",
+    "name": "AXIS",
+    "symbol": "AXIS"
+  }, {
+    "id": "0xecc1d895bf0de45a4f7e046b77729043676cc582",
+    "name": "BURGER.MONEY",
+    "symbol": "BURGER"
+  }, {
+    "id": "0xecc3114de29372d321cddde64aceb6c6c8921c19",
+    "name": "RealtyDao Token",
+    "symbol": "RDAO"
+  }, {
+    "id": "0xecc63811a30725701fe42139c2049b95cf601e38",
+    "name": "Dalio Network",
+    "symbol": "DALIO"
+  }, {
+    "id": "0xecc96346fd63a522d84546282908a16f1d88c70c",
+    "name": "Divo.Finance",
+    "symbol": "DVFI"
+  }, {
+    "id": "0xeccab39acb2caf9adba72c1cb92fdc106b993e0b",
+    "name": "Azbit",
+    "symbol": "AZ"
+  }, {
+    "id": "0xeccbe23f45b6a7e50b03af61098b24fcd18f72fb",
+    "name": "MXSwap",
+    "symbol": "MXSW"
+  }, {
+    "id": "0xeccedfee21a1f2f012a1bd071dbc51147994ee87",
+    "name": "Keep2rV1",
+    "symbol": "KP2R"
+  }, {
+    "id": "0xecceef2c5665174ec843d802f27ad3a64d40d3cd",
+    "name": "Trump Covid - % rates",
+    "symbol": "TrumpCovid"
+  }, {
+    "id": "0xecd502fac951e93075d63401896ae6e37cd9145e",
+    "name": "WarLord.finance",
+    "symbol": "WLT"
+  }, {
+    "id": "0xecd50a55fd8e76c6b878776e27192dd21c40c518",
+    "name": "Gho.Finance",
+    "symbol": "👻Gho"
+  }, {
+    "id": "0xecd6d72b6c36309461dfe8765c1c9788ad69927f",
+    "name": "DegenDAO",
+    "symbol": "DGNDAO"
+  }, {
+    "id": "0xecd8cf7d9a1c0b38b8ea4fba6b41dd76163ff6aa",
+    "name": "Get RichQuick",
+    "symbol": "GRQ"
+  }, {
+    "id": "0xecd911d24e980c426ae2b9f61154dbd5ee2ae64f",
+    "name": "Burnable Oraclized Finance",
+    "symbol": "BOF"
+  }, {
+    "id": "0xecdd966cf4e53e3d5720c522740c691ff58dd76f",
+    "name": "Wire Finance",
+    "symbol": "WIRF"
+  }, {
+    "id": "0xecde425e8f15c3d7e3cfcf06cab12ae8b6cbc2a6",
+    "name": "Binance Finance",
+    "symbol": "BNF"
+  }, {
+    "id": "0xece0c36a00bc368daf527412210978f4076308bb",
+    "name": "DecentralizedSearch",
+    "symbol": "SEARCH"
+  }, {
+    "id": "0xece32553b7de61ffdc56bdd61b3d5da7b6b7e01c",
+    "name": "Donald Trump",
+    "symbol": "TRUMP"
+  }, {
+    "id": "0xece3dcdbb08a69ffd4aaf11b47c70157266d7e86",
+    "name": "OneSwap DAO Token (oneswap.net)",
+    "symbol": "ONES"
+  }, {
+    "id": "0xece480c6124055c088eeefcd18e7fa05e067359f",
+    "name": "YFBULL.FINANCE",
+    "symbol": "YFB"
+  }, {
+    "id": "0xece6b5e24fee4e6f6e0c2ed63f4afe615628bde8",
+    "name": "Sporecore",
+    "symbol": "SPCR"
+  }, {
+    "id": "0xece83617db208ad255ad4f45daf81e25137535bb",
+    "name": "Invacio Coin",
+    "symbol": "INV"
+  }, {
+    "id": "0xececee5e4395bd70998f30b1413544910fa1e756",
+    "name": "yfswap.link",
+    "symbol": "YFW"
+  }, {
+    "id": "0xeced5ccaca8f58487bd02e4d505501820223149e",
+    "name": "d3burned",
+    "symbol": "d3burned"
+  }, {
+    "id": "0xecedf0c72955c904047c18d9741017513e8be094",
+    "name": "Pumpkin",
+    "symbol": "PUMP"
+  }, {
+    "id": "0xecee8a6e1a03cfa7ed62f8a35fcda0f2e2f27024",
+    "name": "skale network",
+    "symbol": "skale"
+  }, {
+    "id": "0xeceecdb396ce5e3e48afd15d04c6388c9b57d016",
+    "name": "xBTC Token @ xBTC.Fi",
+    "symbol": "XBTC"
+  }, {
+    "id": "0xecf0ec511cef4484e599da61ae4ce1029858ac54",
+    "name": "Flamingo",
+    "symbol": "FLM"
+  }, {
+    "id": "0xecf51a98b71f0421151a1d45e033ab8b88665221",
+    "name": "VAYLA",
+    "symbol": "VYA"
+  }, {
+    "id": "0xecf78e15d334c212c7e6cf437b13c1ea05236212",
+    "name": "Pajeetswap",
+    "symbol": "PAJEET"
+  }, {
+    "id": "0xecfa7620004a9f4582251cab0e0717fe8ead24a7",
+    "name": "DRPSA Token",
+    "symbol": "DRPSA"
+  }, {
+    "id": "0xed0073d441aa91c9fb4674deda3dcd806c1d060a",
+    "name": "Yield Farm Rice @ YFR.money",
+    "symbol": "YFR"
+  }, {
+    "id": "0xed009aec6cc43da1fb4e0970cd822457f84f81ea",
+    "name": "Dns CORE",
+    "symbol": "dCORE"
+  }, {
+    "id": "0xed030532b5dcad2c08a69fab3ee40e37e6d7e714",
+    "name": "RioDefi Ethereum",
+    "symbol": "RFuel"
+  }, {
+    "id": "0xed03421a257a4d9a9623b4d59e85ba9ca5356cd4",
+    "name": "Ponzi Scheme @ Ponzi.Finance",
+    "symbol": "PONZI$"
+  }, {
+    "id": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+    "name": "shroom.finance",
+    "symbol": "SHROOM"
+  }, {
+    "id": "0xed04915c23f00a313a544955524eb7dbd823143d",
+    "name": "Alchemy",
+    "symbol": "ACH"
+  }, {
+    "id": "0xed0849bf46cfb9845a2d900a0a4e593f2dd3673c",
+    "name": "Saga",
+    "symbol": "SGA"
+  }, {
+    "id": "0xed08e1a1b11475bf957b9e9875d89bc0c30db328",
+    "name": "GIVToken cryptolocally.com",
+    "symbol": "GIV"
+  }, {
+    "id": "0xed0a71669c422b7ac8dd26d5838b5eb6fb3d2936",
+    "name": "SYFI.Finance",
+    "symbol": "SYFI2"
+  }, {
+    "id": "0xed10b15702d2739f2526bbf4b852b5df9705178e",
+    "name": "Fuse.IO",
+    "symbol": "FUSE"
+  }, {
+    "id": "0xed1199093b1abd07a368dd1c0cdc77d8517ba2a0",
+    "name": "HEX2T",
+    "symbol": "HEX2T"
+  }, {
+    "id": "0xed1199ba9eb7758a6caa1070941bacfe3d1a8f9e",
+    "name": "pls do not buy",
+    "symbol": "PLSNO"
+  }, {
+    "id": "0xed15605e13951b2ee6e08f5ec794dfd5b8537ccb",
+    "name": "YUTU Bitcoin",
+    "symbol": "YTB"
+  }, {
+    "id": "0xed15686e1d65c560a691c7346520f60390113885",
+    "name": "GNOME.FINANCE",
+    "symbol": "GNOME"
+  }, {
+    "id": "0xed1e2a09ad82e0475d89946ca3f8ea8a30f77867",
+    "name": "BALD",
+    "symbol": "BT"
+  }, {
+    "id": "0xed2a38dfcc4958109206410ed0f08488873974dc",
+    "name": "Food Fight Finance",
+    "symbol": "FFF"
+  }, {
+    "id": "0xed324e10e9ca6797412a1b7d1666594fc73eea50",
+    "name": "yficoin.finance",
+    "symbol": "YFC"
+  }, {
+    "id": "0xed351575b9869aada94435e0066ba38e08800b60",
+    "name": "Mcr Stablecoin",
+    "symbol": "MCR"
+  }, {
+    "id": "0xed35197cadf01fcbfe6cfc11081f299cffb095bf",
+    "name": "Eminence YFI",
+    "symbol": "eYFI"
+  }, {
+    "id": "0xed35b94f85881522a8bea5bba183374d1925961e",
+    "name": "Repair",
+    "symbol": "REP"
+  }, {
+    "id": "0xed36482c7f8e5850e91ac0cf6bf2130a1aa2df92",
+    "name": "HOLDTOWIN",
+    "symbol": "7ADD"
+  }, {
+    "id": "0xed3c90c5f02d7286eb0106bed0390a3d3dc0e77c",
+    "name": "Binttrade",
+    "symbol": "BINT"
+  }, {
+    "id": "0xed3fbb9d036bc133a9bdee5cd188f56cd2bb20f1",
+    "name": "UISONDEFI",
+    "symbol": "USN"
+  }, {
+    "id": "0xed41ac3dc98c8bce1b8812952138ecc4040f71d4",
+    "name": "BOOBY WaiFU",
+    "symbol": "BOOBY"
+  }, {
+    "id": "0xed48eb5b11b0d8d170f8e14e4ffca99d24cb05ec",
+    "name": "MakeAmericaGreatAgai",
+    "symbol": "MAGA"
+  }, {
+    "id": "0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2",
+    "name": "CWV Chain",
+    "symbol": "CWV"
+  }, {
+    "id": "0xed51ad7fe72881d8aac4365050a31e89ff09ef4c",
+    "name": "Small target Coin",
+    "symbol": "SMC"
+  }, {
+    "id": "0xed551f18eefeeb381267a4c5658fb8c4540c1dcb",
+    "name": "yflive.network",
+    "symbol": "YFL"
+  }, {
+    "id": "0xed58fe11f8a7b1521ef501393e226933d71697f5",
+    "name": "Yearn High Gain RIA",
+    "symbol": "YHGRIA"
+  }, {
+    "id": "0xed5b8ec6b1f60a4b08ef72fb160ffe422064c227",
+    "name": "Trendering xYield",
+    "symbol": "xTRND"
+  }, {
+    "id": "0xed5f43902e07c99f2f19e53368ac3b6d50212d97",
+    "name": "Sushi Swap v2.0",
+    "symbol": "SUSHIB"
+  }, {
+    "id": "0xed643487779043743d282efa9e59daef01bca38b",
+    "name": "cVault.finance v2.0",
+    "symbol": "CVF"
+  }, {
+    "id": "0xed666212024d6f8d6a75fbf13190bd14ae0ee611",
+    "name": "Cleanworld24coin",
+    "symbol": "CWC"
+  }, {
+    "id": "0xed6b0dc3aa8de5908ab857a70cb2ff657d9b6c5d",
+    "name": "Practical Official",
+    "symbol": "PCC"
+  }, {
+    "id": "0xed6b58e76204a40524e09756fbaa8e3cb7b2a254",
+    "name": "Kissbroth3ers",
+    "symbol": "Kissbroth3ers"
+  }, {
+    "id": "0xed7298be02b0a34ee532a9a6b91f8af8da611e55",
+    "name": "Naiwangbi",
+    "symbol": "NWB"
+  }, {
+    "id": "0xed761a603235b3af7e8936875798d69d339a49b1",
+    "name": "EquitySettlementProtocol",
+    "symbol": "ESP"
+  }, {
+    "id": "0xed787fc6835408bfc3ea8e24dfea1f4ea54be982",
+    "name": "TENG",
+    "symbol": "TENG"
+  }, {
+    "id": "0xed78ead096aa3c22749a3ac72149f64a7be4fc9a",
+    "name": "Order of the Black Rose",
+    "symbol": "OBR"
+  }, {
+    "id": "0xed7bb840a4a2456ca075bbb5a76e5eb10cf3c12e",
+    "name": "Value Swap Protocol",
+    "symbol": "VSP"
+  }, {
+    "id": "0xed7bee90679bf82c15a43c943d16390557872642",
+    "name": "winflywork",
+    "symbol": "winfly"
+  }, {
+    "id": "0xed7fa212e100dfb3b13b834233e4b680332a3420",
+    "name": "Street Cred",
+    "symbol": "CRED"
+  }, {
+    "id": "0xed83b3b11f0cf63eb1c96c461ca4c8ebd73d85c2",
+    "name": "openledger.tech",
+    "symbol": "OLED"
+  }, {
+    "id": "0xed8cc6a3a84e125d928ec6479554f2c866df6e39",
+    "name": "Jubilee",
+    "symbol": "JBL"
+  }, {
+    "id": "0xed8fb5f66b88a6dc10a1baf48eb80d4b4a78a0c9",
+    "name": "TRUMPWIN",
+    "symbol": "TRMP"
+  }, {
+    "id": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+    "name": "DMM: Governance",
+    "symbol": "DMG"
+  }, {
+    "id": "0xed93a0bf115382bde967b7ded2f06c692b71634e",
+    "name": "Annular Network",
+    "symbol": "ANUL"
+  }, {
+    "id": "0xed952dd198c22b67d95eb6fbc2bcd174d014b05f",
+    "name": "Graspr",
+    "symbol": "GRPR"
+  }, {
+    "id": "0xed96e3cb6158cf0921195410ef569bd2f006d581",
+    "name": "1COIN",
+    "symbol": "1COIN"
+  }, {
+    "id": "0xed984db559ceacf775105ea6d7c360b5e29eb60b",
+    "name": "swerve.fi",
+    "symbol": "SWRV"
+  }, {
+    "id": "0xed9be7d4c08f39029a86f966e8566d06ff1ca86c",
+    "name": "Wakanda",
+    "symbol": "WKDA"
+  }, {
+    "id": "0xed9d03936f0e87ff05acf67ae08e4651a42c0af9",
+    "name": "YZZ.Finance",
+    "symbol": "YZZ"
+  }, {
+    "id": "0xeda420361d47eed6fecc1201c84c25a57e53da09",
+    "name": "amtr",
+    "symbol": "amtr"
+  }, {
+    "id": "0xeda478d203096ae1d2ada50f50e100a298be3891",
+    "name": "Test",
+    "symbol": "TEST"
+  }, {
+    "id": "0xeda6efe5556e134ef52f2f858aa1e81c84cda84b",
+    "name": "Capital.finance",
+    "symbol": "CAP"
+  }, {
+    "id": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
+    "name": "I HOUSE TOKEN",
+    "symbol": "IHT"
+  }, {
+    "id": "0xedabb369e7286cad134d3aa52d1bb5e7c67ec732",
+    "name": "Ellipitcoin Community Bridge Token",
+    "symbol": "ECCB"
+  }, {
+    "id": "0xedaedd22e653c504ff6806bf61664292848eb26e",
+    "name": "Uniswap V2",
+    "symbol": "UNI-V2"
+  }, {
+    "id": "0xedb0375fba30311d091cf650b052da5a33f5e6a9",
+    "name": "Sushi Swap Finance II",
+    "symbol": "SUFII"
+  }, {
+    "id": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+    "name": "Wrapped Mirror TWTR Token",
+    "symbol": "mTWTR"
+  }, {
+    "id": "0xedb2a7bbb5d9ce7b27a03ef47777c6ce03f5d85a",
+    "name": "Phoenix",
+    "symbol": "PHOEX"
+  }, {
+    "id": "0xedb3f8b53cd2f3bddb4063db759c274793b65ef1",
+    "name": "ZSEC PROTOCOL",
+    "symbol": "ZSEC"
+  }, {
+    "id": "0xedb446728653901f680e57718f64e58eadad50bb",
+    "name": "HalloweenSpecial",
+    "symbol": "666"
+  }, {
+    "id": "0xedb4b2daa027f81ed3e320c3294a9b427a9bcac2",
+    "name": "YANN.Value",
+    "symbol": "YANN"
+  }, {
+    "id": "0xedb50e6b808b4e5eb556cf83715639f1bfe06156",
+    "name": "CARFARM JEXX",
+    "symbol": "CARFARM"
+  }, {
+    "id": "0xedb6231bd4ce4e64402507537d670d25fc185102",
+    "name": "Zapper.fi",
+    "symbol": "ZFI"
+  }, {
+    "id": "0xedb86c83c3ef7c7224cf14e2ee2c894161148a47",
+    "name": "VetriGlobal",
+    "symbol": "VETR"
+  }, {
+    "id": "0xedb94045bf4492c29f4966f789107fba965af466",
+    "name": "Hongbao.finance",
+    "symbol": "HBO"
+  }, {
+    "id": "0xedbc1b538ff8631b1fc8f87caa1800bd0836b3c7",
+    "name": "YFOS.Finance",
+    "symbol": "YFOS"
+  }, {
+    "id": "0xedbcc06b603ea1f512720a4073a62cc4fdefcb86",
+    "name": "Hashtrust",
+    "symbol": "HTX"
+  }, {
+    "id": "0xedc4f55d4187b50e2e3a8e22c8cab6d586186a23",
+    "name": "Gordon Growth Model",
+    "symbol": "GGM"
+  }, {
+    "id": "0xedc648e4d704192070b1ccf8e585c7215b7e6fc1",
+    "name": "YFRB - FLash Loan Arbitrage",
+    "symbol": "YFRB"
+  }, {
+    "id": "0xedcd18b50d503684c044308d0c6831905d4149f8",
+    "name": "SF Token",
+    "symbol": "SF"
+  }, {
+    "id": "0xedcec76d3895d23d6d692251157c2323abd12548",
+    "name": "kira.network",
+    "symbol": "KIRA"
+  }, {
+    "id": "0xedd0aba7bf50e31ed18fd78a5a0a74ca651a334a",
+    "name": "Potential Coin",
+    "symbol": "PTC"
+  }, {
+    "id": "0xedd3e7909eda64e3ef2cab04b12a9baa028e225c",
+    "name": "CUMSWAP",
+    "symbol": "CUM"
+  }, {
+    "id": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+    "name": "Zippie",
+    "symbol": "ZIPT"
+  }, {
+    "id": "0xeddada2d6fe2a88924fffcf308c9ecfc417f0a71",
+    "name": "AUTEM DeFi",
+    "symbol": "AUFI"
+  }, {
+    "id": "0xeddcd3cd3d5651ef860f904857f6241e74579e28",
+    "name": "Universal Basic Income Token",
+    "symbol": "UBAT"
+  }, {
+    "id": "0xeddda06a90ffaaea3db0c308f29f5798b7de4325",
+    "name": "HUOGUO.finance",
+    "symbol": "HUOGUO"
+  }, {
+    "id": "0xede0eeb5321de69fb92e3868ccdf06d425b2494c",
+    "name": "Jebus.finance",
+    "symbol": "Jebus"
+  }, {
+    "id": "0xede3f5b4ca4ba60dbd57abf99f17f7ff3c14ac0b",
+    "name": "Pluto Token",
+    "symbol": "PLT"
+  }, {
+    "id": "0xedebe36b789519888590a2aabee2350ecb5e0bbd",
+    "name": "LionRed ",
+    "symbol": "LION"
+  }, {
+    "id": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+    "name": "Wrapped STA",
+    "symbol": "WSTA"
+  }, {
+    "id": "0xedf1d06d950fe961602bec876031d8ae461ca9b5",
+    "name": "SpiderDAO.io",
+    "symbol": "SPDR"
+  }, {
+    "id": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+    "name": "ARIANEE",
+    "symbol": "ARIA20"
+  }, {
+    "id": "0xedf6fe088af7190083bbff20ad6a8ea31401f03e",
+    "name": "BooBanker Research Association",
+    "symbol": "BBRA"
+  }, {
+    "id": "0xedf97c9198308c4d6b5a631c55a7c971969a9a48",
+    "name": "Brilliant Coin",
+    "symbol": "BC"
+  }, {
+    "id": "0xedfa48c44f007c4f67c1f1552b5acfc8e194b169",
+    "name": "ATTRACTIVE",
+    "symbol": "AT"
+  }, {
+    "id": "0xedfbd6c48c3ddff5612ade14b45bb19f916809ba",
+    "name": "pulltherug.finance",
+    "symbol": "RUGZ"
+  }, {
+    "id": "0xedfc075b10df4fc2dcf234b06e3b5baeb0fc6df6",
+    "name": "One Peace Finance",
+    "symbol": "OPF"
+  }, {
+    "id": "0xedffadb79bc62737d6033594faf56a5a3df48aa2",
+    "name": "Mobile radio station",
+    "symbol": "MS"
+  }, {
+    "id": "0xedffe4a90e6837117bc42598fcc3ac8f69901025",
+    "name": "DUMP WARS",
+    "symbol": "DWT"
+  }, {
+    "id": "0xee00d35411e39e7917882a3145cea3700d933755",
+    "name": "PEPE Finance",
+    "symbol": "PEPE"
+  }, {
+    "id": "0xee018ef0bbab5d59e3ee4349a62ad3631d9b9191",
+    "name": "DontBuySix",
+    "symbol": "DontBuySix"
+  }, {
+    "id": "0xee04d21e547647a5655b8f0b56e57244a6e087ff",
+    "name": "NFTs DAO",
+    "symbol": "NFTSD"
+  }, {
+    "id": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+    "name": "decentral.games",
+    "symbol": ""
+  }, {
+    "id": "0xee085d707c9934588cd88f3c2befc4d585d77608",
+    "name": "Alaya",
+    "symbol": "ATP"
+  }, {
+    "id": "0xee08f393f4cc9ea0508246ffc0d693944dee6036",
+    "name": "ARRANO DEX",
+    "symbol": "ANDX"
+  }, {
+    "id": "0xee14734512be9f7526df0fbbc5857393c2538d07",
+    "name": "DERISWAP",
+    "symbol": "DERISWAP"
+  }, {
+    "id": "0xee1c02397dff0b409d89d23330b10fba0ce6d4af",
+    "name": "LEMAONTEA",
+    "symbol": "LTE"
+  }, {
+    "id": "0xee260961d1f15557dc9ac7d58287df1c18154eb8",
+    "name": "FOMO Finance",
+    "symbol": "FMF"
+  }, {
+    "id": "0xee286923da060213fe23a52ec07ac3df1705a5f5",
+    "name": "DeIPool.io",
+    "symbol": "DIP"
+  }, {
+    "id": "0xee2a48caf7a6680503445f2aee807d2f148d8504",
+    "name": "PCWA",
+    "symbol": "PCWA"
+  }, {
+    "id": "0xee2cdda3edd33478a5f7424b2ed190312a34293d",
+    "name": "Poseidon Network",
+    "symbol": "PSD"
+  }, {
+    "id": "0xee2ce9a40c650e48f767bf15e35b82c561da190b",
+    "name": "Finance zzz",
+    "symbol": "YZZZ"
+  }, {
+    "id": "0xee2ecf244e064612472003828624acdca6d88b0b",
+    "name": "ydex.finance",
+    "symbol": "YDEX"
+  }, {
+    "id": "0xee306bb5cd039fd7c7514fe4ae569aed583a2317",
+    "name": "aocs",
+    "symbol": "AOCS"
+  }, {
+    "id": "0xee30f5caf8d0e87aaf987bb190a0cfd6357d2e08",
+    "name": "royale.finance",
+    "symbol": "ROYA"
+  }, {
+    "id": "0xee31ef6685fc1dee19dc565b880574bc4d53d61a",
+    "name": "FLASH Protocol",
+    "symbol": "FLASH"
+  }, {
+    "id": "0xee321115791a9cb5b3fdcfea89357adb682d8527",
+    "name": "Injective Protocol",
+    "symbol": "INJ"
+  }, {
+    "id": "0xee3254d8045f865ab858cd320a43a4700a78094f",
+    "name": "BOOM Token",
+    "symbol": "BOOM"
+  }, {
+    "id": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
+    "name": "DeFi Omega",
+    "symbol": "DFIO"
+  }, {
+    "id": "0xee3bfc4f68315866a2b759109c01f76eae464584",
+    "name": "Store3rV1",
+    "symbol": "ST3R"
+  }, {
+    "id": "0xee3c384f75021289bbb467af186c0b9ff09a0507",
+    "name": "Garlic",
+    "symbol": "GAA"
+  }, {
+    "id": "0xee4395ffb480c237ac3cebb4b237d1d19861415f",
+    "name": "YEARN KEY",
+    "symbol": "YFK"
+  }, {
+    "id": "0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
+    "name": "Blockpass",
+    "symbol": "PASS"
+  }, {
+    "id": "0xee4499d2fa5c733d36a229426d016226f0e4ee7e",
+    "name": "FUB",
+    "symbol": "FUM"
+  }, {
+    "id": "0xee4831724293c487afd01f896d35beef50eaa3f0",
+    "name": "XPCH Coin",
+    "symbol": "XPCH"
+  }, {
+    "id": "0xee4d7c243e4a6fd6d3f7d1f7278602109a66fcd6",
+    "name": "BythMoney",
+    "symbol": "BYT"
+  }, {
+    "id": "0xee504449314e7cfbeee2b56f5e5302d7b0244472",
+    "name": "Core Finance V3 Revamped",
+    "symbol": "CORV3"
+  }, {
+    "id": "0xee5553f566951f3d421b9414424c080eedbaf2e7",
+    "name": "xDAI",
+    "symbol": "xDAI"
+  }, {
+    "id": "0xee57d44d43b85a26e6fa4529a29b7a2b4a67a07e",
+    "name": "TrustDeflationaryReserve(t.me/Trustmanproject)",
+    "symbol": "TFDS"
+  }, {
+    "id": "0xee5a76dcd03d94c34b7647241bc883f88b18b42f",
+    "name": "YFIC.FINANCE",
+    "symbol": "YFIC"
+  }, {
+    "id": "0xee5b50cc2a46ecc26c84a430fd0deff841042ceb",
+    "name": "SKODAswap",
+    "symbol": "SKODA"
+  }, {
+    "id": "0xee5bdb262db4448bb663ddf85d6ef6395fad64c1",
+    "name": "power.trade",
+    "symbol": "PTF"
+  }, {
+    "id": "0xee5c75c2f1e8892c84d6d32b730eff5c4181bd10",
+    "name": "dego.finance",
+    "symbol": "DEGOTest"
+  }, {
+    "id": "0xee5d8b7461113dd07d718118305a997c41852941",
+    "name": "yCore.Fi",
+    "symbol": "yCORE"
+  }, {
+    "id": "0xee5fa9619cf1630532cc613e0176f655b3864f0c",
+    "name": "DeFiYieldProtocol",
+    "symbol": "DYP"
+  }, {
+    "id": "0xee615ed2e7fc526e7934bf09854d6d205f011268",
+    "name": "ANTIPP",
+    "symbol": "ANTIPP"
+  }, {
+    "id": "0xee67a313fa15595cd8d20c018a0d6c3765585589",
+    "name": "UniLox.io",
+    "symbol": "LOX"
+  }, {
+    "id": "0xee6bcaf288aabb8471b6e32fc9fd9b983827d2ba",
+    "name": "TESTINGTOKEN",
+    "symbol": "TESTX"
+  }, {
+    "id": "0xee6eb838c6f9dcaa95457723fc59bf3dbf3fe38e",
+    "name": "MIT",
+    "symbol": "MIT"
+  }, {
+    "id": "0xee734b3f08ab79a706e93359658734ed446c99e9",
+    "name": "Reward Finance",
+    "symbol": "Reward"
+  }, {
+    "id": "0xee76c208fd0a57c2789863a76fa8532c06968265",
+    "name": "MasterORB",
+    "symbol": "MORB"
+  }, {
+    "id": "0xee7a2be6bd6fe2ed84614b7b8a279350c434ada5",
+    "name": "Apyc",
+    "symbol": "APYC"
+  }, {
+    "id": "0xee7af8218a441978c43ac85c9f2f338ffcfbc420",
+    "name": "QQQ Farm",
+    "symbol": "QQQF"
+  }, {
+    "id": "0xee80a3e30766d6d6c53957b910c0ec92ef49c04d",
+    "name": "Gypsy Protocol",
+    "symbol": "GPY"
+  }, {
+    "id": "0xee81335b67a54e497b9a4edcba9d619c4e2e1b2a",
+    "name": "StableCredit",
+    "symbol": "scUSD"
+  }, {
+    "id": "0xee814b0dc1e7140403389b9922fb8f3a016357cc",
+    "name": "hardyearn.org",
+    "symbol": "HYFI"
+  }, {
+    "id": "0xee85966b4974d3c6f71a2779cc3b6f53afbc2b68",
+    "name": "Rare Chest",
+    "symbol": "GRC"
+  }, {
+    "id": "0xee863e0cf0db51df7c8cea98961c8726e3573fbf",
+    "name": "LEMON",
+    "symbol": "LEM"
+  }, {
+    "id": "0xee87b220d9b0e762f0643c501fadefd6d9cc5b7e",
+    "name": "Dragon Network",
+    "symbol": "DGNN"
+  }, {
+    "id": "0xee8b2df85f576d293b47a446d53f1c52930e103a",
+    "name": "StakerDAO",
+    "symbol": "STKR4"
+  }, {
+    "id": "0xee8ec59b4529e6f1f20df220ef8d54636384a58f",
+    "name": "QORE VAULT",
+    "symbol": "QORE"
+  }, {
+    "id": "0xee93e2d40bfcc4ab9d6a7dafea4992d22d747f82",
+    "name": "io chain",
+    "symbol": "idoo"
+  }, {
+    "id": "0xee9872823243f069355dc0297c1886decb91c6fc",
+    "name": "Biscuit",
+    "symbol": "Biscuit"
+  }, {
+    "id": "0xee98a5c3fd8c9063c5d8777758d3901a88df957b",
+    "name": "ZEB Token",
+    "symbol": "ZEB"
+  }, {
+    "id": "0xee9b13074269028a39efdd2cb693a6c9c50d28c1",
+    "name": "Tete.Finance",
+    "symbol": "TTFI"
+  }, {
+    "id": "0xee9be98f8a1057f3491832143ecca67f064f049c",
+    "name": "Curve Finance",
+    "symbol": "CRV"
+  }, {
+    "id": "0xeea1dd32b4c4dfd16d200ac2cb286b28f7402728",
+    "name": "CULTURE",
+    "symbol": "CULTURE"
+  }, {
+    "id": "0xeea725049082ad8eabf272317ba202179fd2d834",
+    "name": "YetAnotherYearnToken",
+    "symbol": "YYT"
+  }, {
+    "id": "0xeea8b6953eb67f23e8d15c614c4f5d7261ef0ebf",
+    "name": "HULK.finance",
+    "symbol": "HULK"
+  }, {
+    "id": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96",
+    "name": "YearnSecure",
+    "symbol": "YSEC"
+  }, {
+    "id": "0xeeaa34af95b034bada4baf565063132c765b1fa5",
+    "name": "OLCF",
+    "symbol": "OLCF"
+  }, {
+    "id": "0xeeaccb6bfd41de50f4f6c5e7c6aab4a0fe91b824",
+    "name": "DokiDoki.Finance",
+    "symbol": "DOKI"
+  }, {
+    "id": "0xeead064eeee161126c99dcdc7c860f25f42772be",
+    "name": "Processed YFarmLand Token",
+    "symbol": "pYFARMER"
+  }, {
+    "id": "0xeeb0ff1db9217a97c87ca9e2770ea0af2684975d",
+    "name": "Devils Double",
+    "symbol": "LUCK"
+  }, {
+    "id": "0xeeb1e02ff170f239fd5f7ff6830d7001b2537417",
+    "name": "DeFiPIE",
+    "symbol": "PIE"
+  }, {
+    "id": "0xeeb343cb1d4b7626865af992832f176a6978020c",
+    "name": "Keep4 Network",
+    "symbol": "KP4N"
+  }, {
+    "id": "0xeeb92d7e5c0341bc0325a959851c83db51df13a3",
+    "name": "burger.money",
+    "symbol": "BURGER"
+  }, {
+    "id": "0xeebd662701158df5b3601a31ab4d6326c556cdeb",
+    "name": "Solr Network",
+    "symbol": "SOLR"
+  }, {
+    "id": "0xeec18e9be882cd07863920db7c8536cdfc69984c",
+    "name": "MoonLand3r",
+    "symbol": "MOON3R"
+  }, {
+    "id": "0xeecb1492415dbc02a5032fcbd800d14aa975bdaf",
+    "name": "bondly.finance",
+    "symbol": "BONDLY"
+  }, {
+    "id": "0xeed21a6967e2d4a1eb1a46c6b6942820c2dd38af",
+    "name": "Loomdart Pumping Protocol",
+    "symbol": "@loomdart"
+  }, {
+    "id": "0xeed2b7756e295a9300e53dd049aeb0751899bae3",
+    "name": "DOG: The Anti-Scam Reward Token",
+    "symbol": "DOG"
+  }, {
+    "id": "0xeed6cab35c16e46ae721bd76fd608ad70a2a0f54",
+    "name": "BTCW",
+    "symbol": "BTCW"
+  }, {
+    "id": "0xeed736b2b809550d89a941c2005de93588c628e2",
+    "name": "ETHPlus",
+    "symbol": "ETHP"
+  }, {
+    "id": "0xeed7fbd979364f94639fb68da66f8a1d786073ed",
+    "name": "DERISWAP V1",
+    "symbol": "DSWAPV1"
+  }, {
+    "id": "0xeed83dfc341750ee0547f82f5c1581350580cab7",
+    "name": "Parity Network",
+    "symbol": "PNK"
+  }, {
+    "id": "0xeed8c77af0f724c7a6c8923306db8ee23496d6bb",
+    "name": "Rudi Goverence Token",
+    "symbol": "RGT"
+  }, {
+    "id": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+    "name": "Steaks.finance",
+    "symbol": "STEAK"
+  }, {
+    "id": "0xeedac64009067f8543d149ce1bea869b5312fb7f",
+    "name": "Grey.holdings",
+    "symbol": "GREY"
+  }, {
+    "id": "0xeeddaa78e0b2de769e969bd049c8faff3280df97",
+    "name": "Gold Pressed Latinum",
+    "symbol": "GPL"
+  }, {
+    "id": "0xeede60f2ed7430d2d173fd0b2c930934a08f1af7",
+    "name": "Point05",
+    "symbol": "PT05"
+  }, {
+    "id": "0xeee5f050c6633ef760ccc123c2da345bfc06f71c",
+    "name": "Yearn.Finance Governance DEFI Key",
+    "symbol": "YFIKEY"
+  }, {
+    "id": "0xeee690aaa67d1ee33365c02c3bf477a93867052f",
+    "name": "HappyPay",
+    "symbol": "HPAY"
+  }, {
+    "id": "0xeeeb1518bbe7e2867ccba3c4a0ba879b24c4c7ef",
+    "name": "Core V3 Finance",
+    "symbol": "CORC"
+  }, {
+    "id": "0xeeeb2fdc097db4661d4d7b11adb8d43bb0d24e65",
+    "name": "YFIWORLD.FINANCE",
+    "symbol": "YFW"
+  }, {
+    "id": "0xeeee2a622330e6d2036691e983dee87330588603",
+    "name": "Askobar Network",
+    "symbol": "ASKO"
+  }, {
+    "id": "0xeeeeeeeee2af8d0e1940679860398308e0ef24d6",
+    "name": "Ethverse Token",
+    "symbol": "ETHV"
+  }, {
+    "id": "0xeef1b4ab2d81a9476a2e080be5f642f67d274f36",
+    "name": "Quintura",
+    "symbol": "QUA"
+  }, {
+    "id": "0xeef7e05feb26e4ea782992a8f55ffd2ceb3d6c54",
+    "name": "Dividend",
+    "symbol": "DIV"
+  }, {
+    "id": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+    "name": "Hermez Network Token",
+    "symbol": "HEZ"
+  }, {
+    "id": "0xeefb1d06d28286216e5d7068f9ef21e01f4dd793",
+    "name": "FastEpic",
+    "symbol": "FEPIC"
+  }, {
+    "id": "0xeefdad6a480496875172ada1bafd03b81575166c",
+    "name": "LoyalToken",
+    "symbol": "LYL"
+  }, {
+    "id": "0xef018145f2995568337d42e9916f7dd14ef989a2",
+    "name": "Wrapped Solaris",
+    "symbol": "WXLR"
+  }, {
+    "id": "0xef0b1363d623bddec26790bdc41ea6f298f484ec",
+    "name": "Bread",
+    "symbol": "CONS036"
+  }, {
+    "id": "0xef0c1ee5497ddc72f369f6bfe828e8a6cdca2f0d",
+    "name": "Exponential.Yield.X",
+    "symbol": "EYI"
+  }, {
+    "id": "0xef10e4dd93a44e65a1179ab2d33540baf55ec6b1",
+    "name": "Yield Finance Value",
+    "symbol": "YFIV"
+  }, {
+    "id": "0xef1715c72bcb569ffaacb39b8aecaf180df1df0a",
+    "name": "yearn.farming",
+    "symbol": "yFARM"
+  }, {
+    "id": "0xef1a1add5ce698e2f2db85fd111c404935cccc80",
+    "name": "crbn.io",
+    "symbol": "CRBN"
+  }, {
+    "id": "0xef1cdd808bc4fea04d6d4b3892eb2c3e9f99dfc4",
+    "name": "Dollar Factory Finance",
+    "symbol": "DOFI"
+  }, {
+    "id": "0xef1d5af0928f19d264f2febdfeb2d950aaaed8d1",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  }, {
+    "id": "0xef1f100bfb9880bc907dde3ca0c26cfc83360c74",
+    "name": "oin.finance",
+    "symbol": "OIN"
+  }, {
+    "id": "0xef234b71992c8626050854f8b2797bf4040a09b9",
+    "name": "DIAToken",
+    "symbol": "DIA"
+  }, {
+    "id": "0xef2889b8d67c59b551254750a726fb4c45bd6494",
+    "name": "Penny Bank",
+    "symbol": "PNY"
+  }, {
+    "id": "0xef327568556310d344c49fb7ce6cbfe7b2bb83e6",
+    "name": "YFA finance",
+    "symbol": "YFA"
+  }]
+}
